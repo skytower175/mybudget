@@ -1,0 +1,566 @@
+Support Cluster,Support Item,Support Item Ref No,Support Item Description,Unit of Measure,Quote Required,List Price,Support Categories,Support Category Number
+Accommodation/Tenancy,assistance with accommodation and tenancy obligations,01 001,"Support is provided to guide, prompt, or undertake activities to ensure the participant obtains/retains appropriate accommodation. May include assisting to apply for a rental tenancy or to undertake tenancy obligations.",Hour,N,$55.50 ,Improved living arrangements,8
+Accommodation/Tenancy,transitional support,01 003,Transition to NDIS funding – payment of rent and utility accounts. Short term payment as per participant plan,Each,Y,$1.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Access/Maintain Employ,Employment related assessment and counselling,02 005,Workplace assessment conducted by workplace rehabilitation provider to determine adjustments or modifications to workplace or work processes to ensure employment is maintained and matches the employees capabilities,Hour,N,$172.13 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,assistance in specialised supported employment Level 1 DMI,03 002,Provision of Level One ongoing on- the- job support to enable a participant to maintain/retain supported employment. Pricing guidance is weekly.,Each,N,$83.08 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,assistance in specialised supported employment Level 2 DMI,03 003,Provision of Level Two ongoing on- the- job support to enable a participant to maintain/retain supported employment. Pricing guidance is weekly.,Each,N,$140.77 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,assistance in specialised supported employment Level 3 DMI,03 004,Provision of Level Three ongoing on- the- job support to enable a participant to maintain/retain supported employment. Pricing guidance is weekly.,Each,N,$211.15 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,assistance in specialised supported employment Level 4 DMI,03 005,Provision of Level Four ongoing on- the- job support to enable a participant to maintain/retain supported employment. Pricing guidance is weekly.,Each,N,$280.38 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,individual employment support,03 007,"Time limited on-the-job training & post placement support related to participant’s disability that enables them to adjust & manage demands of the job & workplace environment, & to assist employers to successfully manage the participant's placement.",Hour,N,$54.46 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,employment preparation and support in a group,03 010,"In a group setting, build capacity by providing skills training such as transport, time/financial management, self-care to support a participant to get a job post school. *assumes group of 3",Hour,N,$18.16 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,supported employment start-up fee (ADE),03 012,"Supported employment administrative start-up fee paid, paid once only when a Participant starts with an ADE",Each,N,$610.00 ,Finding and keeping a job,10
+Assist Access/Maintain Employ,support in employment (ADE),03 018,"Assistance to gain and maintain employment in ADEs, through on-the-job support, training, employer advice and assistance in transitioning from ADE. Price guidance is weekly.",Hour,N,$107.77 ,Finding and keeping a job,10
+Assist Prod-Pers Care/Safety,other adapted furniture,04 18 09 01,"includes therapy cushions, conductive education furniture, hand grips mounted on furniture etc",Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,"cooling vest- small, medium, large",04 30 06 00,vest used for people with thermoregulatory problems,Each,N,$120.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,pressure mattress air filled section,04 33 06 01,,Each,Y,$680.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,pressure reduction mattress,04 33 06 03,mattress with pressure reduction properties,Each,Y,$650.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,pressure reduction overlay,04 33 06 04,"overlay with air or other substance, mechanical or not",Each,Y,"$2,550.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,pressure mattress continuous air loss,04 33 06 05,"Mattress for very complex needs, usually for participants in bed for most of the day and night.",Each,Y,"$11,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,water chairs,04 33 18 09,chairs with full pressure relief via water filled inserts,Each,Y,"$2,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,standing frame- child under 5,04 48 08 01,apparatus to hold a person in a standing position,Each,Y,$600.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,standing frame child over 5 or teen,04 48 08 02,apparatus to hold a person in a standing position,Each,Y,"$3,100.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,standing frame adult,04 48 08 03,apparatus to hold a person in a standing position,Each,Y,"$3,100.00 ",Assistive technology,5
+Assist-Integrate School/Ed,specialised transport to school/educational facility/employment/community,05 003,Transport required to get a person with disability to school/educational facility/employment/community when they are unable to travel by other means due to their disability,Day,Y,$1.00 ,Transport to access daily activities,2
+Assist-Integrate School/Ed,transition through school and to further education,05 004,"Provision of skills training, advice, assistance with arrangements, orientation to assist a person with disability moving from school to further education",Hour,N,$55.50 ,Improved learning,13
+Assist Prod-Pers Care/Safety,incontinence alarms,05 09 03 00,buzzer or similar used in continence training,Each,Y,$25.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,hand splints,06 06 06 00,hand splints provided as part of a shorter term therapy program,Each,Y,$125.00 ,Assistive technology,5
+Personal Mobility Equipment,therapeutic body splints,06 06 06 03,Lycra or other splints designed to improve functioning.,Each,Y,$250.00 ,Assistive technology,5
+Personal Mobility Equipment,custom foot supports,06 12 03 01,Foot supports or restraints for a wheelchair where conventional supports do not suffice.,Each,Y,$200.00 ,Assistive technology,5
+Personal Mobility Equipment,foot orthoses,06 12 03 02,,Each,Y,$380.00 ,Assistive technology,5
+Personal Mobility Equipment,ankle-foot orthoses prefabricated- average price,06 12 06 00,,Each,Y,$980.00 ,Assistive technology,5
+Personal Mobility Equipment,ankle-foot orthoses prefabricated sizes 1-4,06 12 06 01,,Each,Y,$55.00 ,Assistive technology,5
+Personal Mobility Equipment,"ankle-foot orthoses prefabricated reg, large, xlge",06 12 06 02,,Each,Y,$90.00 ,Assistive technology,5
+Personal Mobility Equipment,ankle-foot orthoses ankle joint,06 12 06 03,,Each,Y,$995.00 ,Assistive technology,5
+Personal Mobility Equipment,ankle-foot orthoses (AFO) static custom made,06 12 06 04,,Each,Y,$300.00 ,Assistive technology,5
+Personal Mobility Equipment,knee orthoses,06 12 09 01,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,knee-ankle-foot orthoses,06 12 12 01,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,leg orthoses,06 12 13 01,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,hip orthoses,06 12 15 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,hip-knee orthoses,06 12 16 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,thigh orthoses,06 12 17 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,hip-knee-ankle-foot orthoses,06 12 18 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,thoracolumbar/lumbo-sacral - hip - knee - ankle - foot orthoses,06 12 19 00,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,partial hand prostheses,06 18 03 01,,Each,Y,"$1,800.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,wrist disarticulation prostheses,06 18 06 00,,Each,Y,"$3,360.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,trans-radial prostheses,06 18 09 00,,Each,Y,"$3,970.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,trans-humeral prostheses,06 18 15 00,,Each,Y,"$5,400.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,forequarter amputation prostheses,06 18 21 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,other lower limb prostheses,06 24 00 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,partial foot prostheses- average,06 24 03 01,,Each,Y,"$1,870.00 ",Assistive technology,5
+Personal Mobility Equipment,ankle disarticulation prostheses- average,06 24 06 00,,Each,Y,"$3,360.00 ",Assistive technology,5
+Personal Mobility Equipment,trans-tibial prostheses- average,06 24 09 00,,Each,Y,"$4,500.00 ",Assistive technology,5
+Personal Mobility Equipment,trans-femoral prostheses- average,06 24 15 00,,Each,Y,"$8,550.00 ",Assistive technology,5
+Personal Mobility Equipment,hip disarticulation prostheses- average,06 24 18 00,,Each,Y,"$11,500.00 ",Assistive technology,5
+Personal Mobility Equipment,trans-pelvic prostheses,06 24 21 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,custom made footwear,06 33 09 01,Pair of shoes made for a participant who is unable to fit off the shelf or specialist shoes.,Each,Y,$350.00 ,Assistive technology,5
+Personal Mobility Equipment,extra depth footwear,06 33 09 02,Pair of shoes with extra depth or width that are commercially available,Each,Y,$250.00 ,Assistive technology,5
+Personal Mobility Equipment,shoe modifications- ie raise,06 33 09 03,adjustments to regular shoes required due to disability,Each,Y,$100.00 ,Assistive technology,5
+"Assist-Life Stage, Transition","assistance with decision making, daily planning, budgeting",08 001,"Provision of time limited support to assist a person to develop and maintain daily budget, including assisting in planning purchases.",Hour,N,$41.18 ,Improved daily living skills,4
+"Assist-Life Stage, Transition",support connection,08 002,"Assistance to strengthen participant’s abilities to coordinate supports & participate in the community. This includes resolving points of crisis, developing capacity & resilience in a participant's network & coordinating supports from a range of sources.",Hour,N,$55.50 ,Improved life choices,14
+"Assist-Life Stage, Transition",coordination of supports,08 003,"Further qualifications/experience required to strengthen a higher needs participant’s ability to coordinate their supports & participate in the community. This may include resolving points of crisis, & developing resilience in the participant's network.",Hour,N,$90.46 ,Improved life choices,14
+"Assist-Life Stage, Transition","Life transition planning includes mentoring, peer support and focus on individual skill development.",08 005,"Establishing volunteer assistance within the participant’s home or community to develop skills. For instance, assistance in attending appointments, shopping, bill paying, taking part in social activities and maintaining contact with others.",Hour,N,$55.50 ,Increased social and community participation,9
+"Assist-Life Stage, Transition",specialist support coordination,08 006,"Time limited support coordination, within specialist framework necessitated by high risks in participant's situation, to address barriers and reduce complexity in environment, assisting to connect with supports, build capacity and resilience. ",Hour,N,$172.13 ,Improved life choices,14
+Assist Prod-Pers Care/Safety,personal care and safety equipment- other,09 00 00 01,"Includes other reasonable and necessary personal care and safety equipment not listed, due to impact of participant's disability.",Each,Y,$1.00 ,Assistive technology,5
+Assist-Personal Activities,assistance with self-care - active overnight,09 001,"Assistance with, or supervision of, personal tasks of daily living where  overnight support is needed and the care giver will not have the option to sleep",Hour,N,$45.96 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance from live-in carer,09 002,"A person lives in the house of, or travels with the participant and provides assistance with, and/or supervision of, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,Y,$1.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with personal domestic activities,09 004,Assist participant to undertake and/or develop skills to maintain their home environment where the participant owns their own home & has sole or substantial responsibility for its maintenance. Includes assisting participant to do basic house & yard work.,Hour,N,$39.08 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Public Holidays - higher intensity,09 005,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$94.01 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Saturdays - higher intensity,09 006,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$60.31 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Sundays - higher intensity,09 007,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$77.16 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities during daytime weekdays - higher intensity,09 008,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$43.47 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities per weekday evening - higher intensity,09 009,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$47.67 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care - night-time sleepover,09 010,"Assistance with, or supervision of, personal tasks of daily living where overnight support is needed, but the care giver can sleep when not required to provide support.",Each,N,$179.40 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities during daytime weekdays,09 011,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$41.18 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Public Holidays,09 012,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$89.06 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Saturdays,09 013,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$57.13 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities on Sundays,09 014,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$73.11 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care activities per weekday evening,09 015,"Assisting with, and/or supervising, personal tasks of daily life to develop skills of the participant to live as autonomously as possible.",Hour,N,$45.17 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,specialised home based assistance for a child,09 016,Specialist assistance in the home required due to additional requirements of the child’s disability; may be provided to strengthen the sustainability of informal supports.,Hour,N,$41.18 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,"overnight monitoring of self-care - off site or onsite, on call (incl 1 hr assist)",09 025,"Overnight on-call assistance with, or supervision of, personal tasks of daily living.",Each,Y,$1.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,assistance with self-care - overnight - higher intensity,09 026,"Assistance with, or supervision of, personal tasks of daily living where intensive overnight support is needed and the care giver will not have the option to sleep",Hour,N,$48.53 ,"Assistance with daily life at home in the community, education and at work",1
+Assist-Personal Activities,Establishment Fee for Personal Care/Community Access,09 027,Establishment Fee for Personal Care/Community Access (.20 hours per month).,Each,N,$1.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,helmets,09 06 03 00,protective helmet for people with seizures or falls etc,Each,Y,$170.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bedside commode adjustable folding,09 12 03 01,,Each,Y,$300.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bedside commode adjustable height,09 12 03 02,,Each,Y,$130.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bedside commode extra wide,09 12 03 03,,Each,N,$370.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bedside commode bari 650mm w,09 12 03 04,,Each,N,$560.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- self propel folding,09 12 03 11,,Each,N,"$1,500.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- low transporter,09 12 03 12,,Each,Y,$885.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- bari transporter- 550w,09 12 03 13,,Each,Y,"$1,400.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- child transporter,09 12 03 15,,Each,Y,"$1,250.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- child self propel,09 12 03 17,,Each,Y,"$1,630.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- child,09 12 03 18,,Each,Y,"$1,700.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- potty child,09 12 03 19,,Each,Y,$970.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- potty junior,09 12 03 20,,Each,Y,$770.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- transporter slide hi,09 12 03 22,,Each,Y,$880.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,mobile shower commode- specialised child with supports,09 12 03 24,,Each,Y,"$1,040.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,toilet surround adjustable,09 12 12 01,,Each,Y,$60.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,toilet surround padded arms,09 12 12 02,,Each,Y,$95.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,raised toilet seats fixed to toilet,09 12 21 04,,Each,Y,$100.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise adjustable,09 12 21 07,,Each,Y,$75.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise adjustable wide,09 12 21 08,,Each,Y,$100.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise folding,09 12 21 09,,Each,Y,$125.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise 550 wide,09 12 21 10,,Each,Y,$250.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise 600 wide,09 12 21 11,,Each,Y,$280.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seat toilet raise 650 wide,09 12 21 12,,Each,Y,$310.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,arm and back supports mounted on toilet,09 12 24 00,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,"arm supports and toilet back supports, free-standing",09 12 25 00,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,continence package A - child annual amount,09 24 03 01,"Indwelling catheters, bags, night bottle or bags and change kits.",Each,N,"$1,220.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence package A - adult annual amount,09 24 03 02,"indwelling catheters, bags, night bottle or bags and change kits.",Each,N,"$1,220.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence products - other for child,09 24 06 01,Individualised continence package or products not listed elsewhere in this list.,Each,N,$50.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence package B - intermittent mild - annual amount,09 24 06 05,3 per day intermittent catheters with gel and lubricant - annual amount.,Each,Y,"$1,082.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence package C - intermittent moderate annual amount,09 24 06 06,4 per day intermittent catheters with gel and lubricant - annual amount.,Each,Y,"$1,295.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence package D - intermittent higher needs annual amount,09 24 06 07,6 per day intermittent catheters with gel and lubricant - annual amount.,Each,Y,"$2,390.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence products - other for adult,09 24 06 10,,Each,N,$50.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult intermittent catheters standard 3/day- annual,09 24 06 15,,Each,N,"$1,095.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult intermittent catheters standard 4/day- annual,09 24 06 16,,Each,N,"$1,460.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult intermittent catheters standard 6/day- annual,09 24 06 17,,Each,N,"$2,190.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence package E- external,09 24 09 05,"sheaths, leg bags, drain bag or bottle, straps- annual amount",Each,Y,"$1,570.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,child nappy single-use 3/day - annual supply,09 30 12 11,Nappy for a child’s disability specific needs,Each,Y,$600.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,child nappy single-use 4/day - annual supply,09 30 12 12,Nappy for a child’s disability specific needs,Each,Y,$800.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,child nappy single-use 6/day - annual supply,09 30 12 13,Nappy for a child’s disability specific needs,Each,Y,"$1,180.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,child nappy single-use 12/day - annual supply,09 30 12 14,Nappy for a child’s disability specific needs,Each,Y,"$2,365.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,washable incontinence sheets,09 30 15 00,,Each,Y,$25.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,single-use inserts / pads-adult 3/day - annual supply,09 30 18 05,,Each,Y,$624.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,single-use inserts / pads-adult 4/day - annual supply,09 30 18 06,,Each,Y,$817.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,single-use inserts / pads-adult 6/day - annual supply,09 30 18 07,,Each,Y,"$1,226.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,single-use inserts / pads-adult 12/day - annual supply,09 30 18 08,,Each,Y,"$2,452.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult absorbent pull up or brief 3/day- annual supply,09 30 21 01,single-use diapers,Each,N,"$1,675.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult absorbent pull up or brief 4/day- annual supply,09 30 21 02,single-use diapers,Each,N,"$2,233.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult absorbent pull up or brief 6/day- annual supply,09 30 21 03,single-use diapers,Each,N,"$3,350.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,adult absorbent pull up or brief 12/day- annual supply,09 30 21 04,single-use diapers,Each,N,"$6,700.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,chair shower adjustable with arms wide,09 33 03 03,,Each,Y,$85.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,chair shower bariatric 175kgs,09 33 03 04,,Each,Y,$370.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,chair shower swivel type,09 33 03 05,e.g. myco,Each,Y,$375.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,chair shower bariatric 195kgs,09 33 03 06,,Each,Y,$385.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,chair shower bariatric 210kgs,09 33 03 07,,Each,Y,$395.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,stool shower adjustable with arms,09 33 03 11,,Each,Y,$65.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,stool shower adjustable with back,09 33 03 13,,Each,Y,$180.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,specialised shower trolley,09 33 03 22,,Each,Y,"$3,320.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,bathboard plastic no handle,09 33 03 31,,Each,N,$60.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bath corner seat size 1,09 33 03 41,,Each,Y,$550.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bath corner seat size 2,09 33 03 42,,Each,Y,$600.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bath support for child under 5,09 33 03 70,"Postural support inserted into a bath or placed on a stand, for a child unable to sit unaided safely.",Each,N,$350.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bath support over 5 years,09 33 03 71,"Postural support inserted into a bath or placed on a stand, for a participant unable to sit or recline unaided safely.",Each,N,$500.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,change table- electronic,09 33 12 01,,Each,Y,"$3,700.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,change table manual,09 33 12 02,,Each,Y,"$2,500.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,bidets- detachable,09 33 18 00,equipment attached to toilet with air and water dispenser for washing following toileting,Each,Y,$400.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,insert for reducing length or depth of a bathtub,09 33 27 00,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,specialised seating for bathroom equipment,09 33 30 99,custom made seating for shower commode or like bathroom item.,Each,Y,$200.00 ,Assistive technology,5
+Assist-Travel/Transport,transport,10 001,"Where a participant is unable to use public transport because of their disability, transport can be funded for a taxi, carer or community transport. Owners of private vehicles (carers/individuals) can claim mileage up to $0.78/km. Other providers quote.",Each,Y,"$1,574.40 ",Transport to access daily activities,2
+Vehicle modifications,rental of adapted vehicle,10 002,,Each,Y,$1.00 ,Vehicle modifications,6
+Behaviour Support,intensive behavioural intervention support,11 004,"Highly specialised intensive support interventions to address significantly harmful or persistent behaviours of concern. Development of behaviour support plans that temporarily use restrictive practices, with  intention to minimise use of these practices.",Hour,N,$188.93 ,Improved relationships,11
+Behaviour Support,"behaviour management plan, training in behaviour management strategies",11 006,Training for carers and others in behaviour management strategies required due the persons disability.,Hour,N,$172.13 ,Improved relationships,11
+Vehicle modifications,ramps to place wheelchair in vehicle without occupant,12 00 00 01,,Each,Y,$770.00 ,Vehicle modifications,6
+Personal Mobility Equipment,walking sticks and canes,12 03 03 01,,Each,N,$20.00 ,Assistive technology,5
+Personal Mobility Equipment,quadrapod walking stick,12 03 03 02,,Each,N,$35.00 ,Assistive technology,5
+Personal Mobility Equipment,elbow crutches,12 03 06 01,,Each,Y,$60.00 ,Assistive technology,5
+Personal Mobility Equipment,forearm support crutches,12 03 09 00,,Each,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,walking frame,12 06 03 01,,Each,Y,$55.00 ,Assistive technology,5
+Personal Mobility Equipment,walking frame- bariatric 180 kg,12 06 03 02,,Each,Y,$170.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled walker - with frame bariatric,12 06 06 10,Wheeled walker with frame for a participant with an increased weight in obese range.,Each,Y,$205.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled walker - with frame 6 wheel,12 06 06 11,,Each,Y,$80.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled walker - with frame junior gutter,12 06 06 19,,Each,Y,$300.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled walker - with frame adult gutter,12 06 06 20,,Each,Y,$350.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled walker-walker posterior,12 06 06 21,,Each,Y,"$1,230.00 ",Assistive technology,5
+Personal Mobility Equipment,four wheeled walker with brakes and seat,12 06 06 50,,Each,Y,$230.00 ,Assistive technology,5
+Personal Mobility Equipment,rollator with supports,12 06 06 54,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,walking chairs for children aka gait trainers,12 06 09 01,devices with a sling or seat that support the body when walking,Each,Y,"$4,560.00 ",Assistive technology,5
+Personal Mobility Equipment,walking tables,12 06 09 02,devices with wheels and supporting table or forearm support,Each,N,$740.00 ,Assistive technology,5
+Vehicle modifications,specialised child car seats,12 10 00 00,,Each,Y,$850.00 ,Vehicle modifications,6
+Vehicle modifications,adaptions to control speed of car,12 12 04 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,adapted brake/parking brake,12 12 05 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,adapted steering system for car,12 12 07 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,"adapted mirrors, door locks for car",12 12 08 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,seat belts/harnesses for vehicles,12 12 09 00,,Each,Y,$675.00 ,Vehicle modifications,6
+Vehicle modifications,adapted seating in vehicles,12 12 12 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,vehicle hoists person only,12 12 15 00,,Each,Y,"$3,500.00 ",Vehicle modifications,6
+Vehicle modifications,vehicle adaption for wheelchair passenger,12 12 18 00,Hoist/ lift/ramp plus restraints for wheelchair and person including floor lowering if required,Each,Y,"$12,000.00 ",Vehicle modifications,6
+Vehicle modifications,adapt vehicle self driver+ wheelchair,12 12 18 02,"Remote access, basic self drive plus vehicle hoist/ lift/ramp plus restraints for wheelchair and person including floor lowering if required",Each,Y,"$30,000.00 ",Vehicle modifications,6
+Vehicle modifications,adapt car self-drive electro mechanical,12 12 18 03,"Costs related to installing self-drive equipment. Includes installation automated doors, wheelchair docking, adaptions to steering, brake, gears and installation of electro mechanical controls.",Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,car modifications - self drive from driver seat,12 12 18 04,Includes spinners and accelerator control.,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,car mounted hoist for wheelchair or scooter,12 12 21 01,Electronic or mechanical hoist mounted to car to lift wheelchair or scooter for transport.,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,tie downs for vehicle,12 12 24 01,system to hold a wheelchair safely and steady whilst in transit- not for restraining the occupant,Each,Y,$650.00 ,Vehicle modifications,6
+Vehicle modifications,adapt vehicle chassis and body,12 12 27 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Vehicle modifications,trailers to carry wheelchairs,12 12 30 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Home Modification,stair climber directed by attendant for wheelchair,12 17 03 00,Portable tracked device which a wheelchair attaches to and then is tracked upstairs by attendant.,Each,Y,$1.00 ,Home modifications,7
+Assistive Equip-Recreation,hand-propelled bicycles,12 18 05 00,,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,specialist tricycles,12 18 09 00,,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,disability specific cycle adaptions,12 18 21 00,,Each,Y,"$3,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manually propelled- average folding,12 22 03 00,,Each,Y,$400.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual- basic folding adult,12 22 03 01,,Each,Y,$600.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual transit adult,12 22 03 02,"Wheelchairs that cannot be self-propelled, so are propelled by an attendant.",Each,Y,$400.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual child folding,12 22 03 10,,Each,Y,"$1,200.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom adult folding,12 22 03 20,frame is made to individual measurements,Each,Y,"$1,400.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom child folding,12 22 03 31,frame is made to individual measurements,Each,Y,"$2,050.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom adult bariatric,12 22 03 40,Manual wheelchair for person with increased weight in obese range.,Each,Y,"$3,590.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom adult rigid frame,12 22 03 51,frame is made to individual measurements,Each,Y,"$2,400.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom made steel frame,12 22 03 54,frame is made to individual measurements,Each,Y,"$3,500.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom made lightweight frame,12 22 03 56,"Frame that is made to individual measurements. Made of titanium, aluminium or other lightweight material.",Each,Y,"$5,500.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual custom child rigid frame,12 22 03 60,frame is made to individual measurements,Each,Y,"$2,500.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual tilt in space- adult,12 22 03 70,Manual frame with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$3,250.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual tilt in space- child,12 22 03 80,Manual frame with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$2,800.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual + customised seating,12 22 03 90,wheelchair and customised seating,Each,Y,"$4,200.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual amputee,12 22 03 91,"Manual wheelchair. For example, balanced for lower limb amputee.",Each,Y,$800.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual- one arm drive/lever,12 22 09 00,manual wheelchair propelled by lever or dual hand rims,Each,Y,$900.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- manual + power assisted wheels,12 22 12 00,manual wheelchair with powered wheels that amplify pushing effort,Each,Y,"$4,000.00 ",Assistive technology,5
+Personal Mobility Equipment,scooters- 3 wheels,12 23 03 01,,Each,Y,"$2,600.00 ",Assistive technology,5
+Personal Mobility Equipment,scooters- 4 wheels,12 23 03 10,,Each,Y,"$2,320.00 ",Assistive technology,5
+Personal Mobility Equipment,scooters- 4 wheels heavy duty,12 23 03 11,,Each,Y,"$3,710.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered basic adult folding RWD,12 23 06 01,Rear wheel drive power chair which folds when disassembled.,Each,Y,"$5,100.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered basic adult RWD,12 23 06 10,rear wheel drive,Each,Y,"$5,850.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered basic adult MWD,12 23 06 11,mid wheel drive,Each,Y,"$5,850.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered basic child RWD,12 23 06 22,rear wheel drive,Each,Y,"$8,800.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered basic child MWD,12 23 06 30,mid wheel drive,Each,Y,"$8,450.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered tilt in space adult RWD,12 23 06 31,rear wheel drive with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$7,050.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered tilt in space adult MWD,12 23 06 32,mid wheel drive with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$7,050.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered with powered recline or leg elevation,12 23 06 33,,Each,Y,"$15,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered tilt in space child RWD,12 23 06 35,rear wheel drive with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$10,720.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered tilt in space child MWD,12 23 06 36,mid wheel drive with seat and back rest able to be tipped as a unit past 90 degrees,Each,Y,"$10,830.00 ",Assistive technology,5
+Personal Mobility Equipment,"wheelchair- powered TIS, recline adult RWD",12 23 06 40,"Rear wheel drive with seat and back rest, able to be tipped as a unit past 90 degrees.",Each,Y,"$7,800.00 ",Assistive technology,5
+Personal Mobility Equipment,"wheelchair- powered TIS, recline adult MWD",12 23 06 41,"Mid wheel drive with seat and back rest, able to be tipped as a unit past 90 degrees.",Each,Y,"$7,800.00 ",Assistive technology,5
+Personal Mobility Equipment,"wheelchair- powered TIS, recline child RWD",12 23 06 42,"Rear wheel drive with seat and back rest, able to be tipped as a unit past 90 degrees.",Each,Y,"$13,500.00 ",Assistive technology,5
+Personal Mobility Equipment,"wheelchair- powered TIS, recline child MWD",12 23 06 43,"Mid wheel drive with seat and back rest, able to be tipped as a unit past 90 degrees.",Each,Y,"$13,100.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered with powered seat elevation,12 23 06 44,,Each,Y,"$15,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered with powered standing mechanism,12 23 06 50,,Each,Y,"$15,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered four wheel drive wheelchair,12 23 06 70,,Each,Y,"$16,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered - bariatric over 200kg,12 23 06 80,Powered wheelchair for person with increased weight in obese range.,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered attendant controlled,12 23 12 00,powered chair with attendant control instead of or as well as participant control,Each,Y,"$15,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair- powered stair climbing,12 23 15 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair alternate controls,12 24 03 00,controls other than joy stick,Each,Y,$1.00 ,Assistive technology,5
+Vehicle modifications,wheelchair-based restraint system,12 24 30 00,,Each,Y,$1.00 ,Vehicle modifications,6
+Personal Mobility Equipment,"pram or stroller- oversized, some minor supports",12 27 07 01,,Each,Y,"$1,600.00 ",Assistive technology,5
+Personal Mobility Equipment,"pram or stroller- oversized, little or no supports",12 27 07 02,,Each,Y,$680.00 ,Assistive technology,5
+Personal Mobility Equipment,pram or stroller- specialised with adjustable seating,12 27 07 03,,Each,Y,"$6,985.00 ",Assistive technology,5
+Personal Mobility Equipment,alternate base for stroller,12 27 07 04,Hi lo or other base for specialised stroller seating,Each,Y,"$2,300.00 ",Assistive technology,5
+Personal Mobility Equipment,crawlers and mobility boards,12 27 15 00,floor level cart or wheel device for floor mobility,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,wheeled stretcher- self propelled,12 27 18 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,transfer equipment- slide sheet,12 31 03 00,,Each,Y,$30.00 ,Assistive technology,5
+Personal Mobility Equipment,board transfer wood,12 31 03 10,,Each,N,$70.00 ,Assistive technology,5
+Personal Mobility Equipment,car transfer pad,12 31 03 14,,Each,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,transfer turn table,12 31 06 01,,Each,Y,$90.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed sticks- standard,12 31 09 02,,Each,N,$40.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed sticks-townsend long,12 31 09 05,,Each,N,$85.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed pole for electric bed,12 31 09 07,,Each,N,$145.00 ,Assistive technology,5
+Personal Mobility Equipment,grip ladder,12 31 12 01,,Each,Y,$20.00 ,Assistive technology,5
+Personal Mobility Equipment,transfer belt,12 31 15 01,,Each,Y,$80.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bath transfer bench no back,12 31 21 01,,Each,Y,$250.00 ,Assistive technology,5
+Personal Mobility Equipment,hoist- mobile- 150 kg,12 36 03 01,,Each,Y,"$2,685.00 ",Assistive technology,5
+Personal Mobility Equipment,hoist- mobile > 200 kg,12 36 03 02,,Each,Y,"$2,900.00 ",Assistive technology,5
+Personal Mobility Equipment,hoist mobile- 200 kg,12 36 03 03,,Each,Y,"$3,095.00 ",Assistive technology,5
+Personal Mobility Equipment,sling mesh\poly small,12 36 03 51,,Each,Y,$180.00 ,Assistive technology,5
+Personal Mobility Equipment,sling commode head support medium,12 36 03 52,,Each,Y,$180.00 ,Assistive technology,5
+Personal Mobility Equipment,sling head support small,12 36 03 53,,Each,Y,$180.00 ,Assistive technology,5
+Personal Mobility Equipment,sling head support large,12 36 03 58,,Each,Y,$202.00 ,Assistive technology,5
+Personal Mobility Equipment,sling average,12 36 03 98,,Each,Y,$300.00 ,Assistive technology,5
+Personal Mobility Equipment,"hoist - mobile, standing position",12 36 04 01,,Each,Y,"$3,700.00 ",Assistive technology,5
+Personal Mobility Equipment,"hoist mobile, sitting position solid seat",12 36 06 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,hoist- fixed to wall floor or ceiling,12 36 12 01,,Each,Y,"$3,440.00 ",Assistive technology,5
+Personal Mobility Equipment,hoist- fixed to wall floor or ceiling with installation,12 36 12 02,,Each,Y,"$6,870.00 ",Assistive technology,5
+Vision Equipment,tactile sticks or white canes,12 39 03 00,,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,assistive products for electronic orientation,12 39 06 00,Ultra sonic sensing devices to assist orientation,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,assistive products for acoustic navigation,12 39 09 00,Devices that give auditory prompts to assist with navigation.,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,tactile maps,12 39 15 00,,Each,Y,$1.00 ,Assistive technology,5
+Community Nursing Care,individual assessment and support by a Nurse,13 002,"Provision of care, training and supervision of a delegated worker to respond to the complex care needs of a participant where that care is not the usual responsibility of the Health System.",Hour,N,$92.11 ,Improved daily living skills,4
+Daily Tasks/Shared Living,assistance in living arrangements (host family/alternative family situation),14 001,Agreement for a participant with high support needs to stay with a host family. The host family will have minimum qualifications & provide support in the home for the agreed time. The quote will reflect the hours of assistance required & length of stay.,Day,Y,$1.00 ,Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement (hourly rate per person ),14 002,"Daily living support provided in a shared living arrangement. This rate is paid by the hour for one-to-one assistance, divided by the number of people supported.",Each,Y,$1.00 ,Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 2 persons - complex needs,14 003,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$4,626.70 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 3 persons - complex needs,14 004,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant",Each,Y,"$4,006.83 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 4 persons - complex needs,14 005,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$3,181.06 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 5 persons - complex needs,14 006,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,796.50 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 6 persons - complex needs,14 007,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,507.81 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 7 persons or more - complex needs,14 008,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with complex support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,507.81 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 2 persons - standard,14 009,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$3,573.25 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 3 persons - standard,14 010,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,950.11 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 4 persons - standard,14 011,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,285.57 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 5 persons - standard,14 012,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,188.61 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 6 persons - standard,14 013,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,121.06 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 7 persons or more - standard,14 014,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with standard (or mixed) support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,121.06 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 3 persons - lower needs,14 015,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$1,808.41 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 4 persons - lower needs,14 016,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$1,796.43 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 5 persons - lower needs,14 017,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$1,746.32 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 6 persons - lower needs,14 018,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$1,613.41 ",Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 7 persons or more - lower needs,14 019,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$1,613.41 ",Supported independent living,3
+Daily Tasks/Shared Living,short term accommodation and assistance,14 022,"Integrated support for self-care, accommodation, food & activities in a centre or group residence for short periods. Includes all expenses in 24 hour period with no additional loading. May be used for up to 14 consecutive days, then weekly rates apply.",Day,N,$462.09 ,Supported independent living,3
+Daily Tasks/Shared Living,assistance in individual living arrangement for person with complex needs,14 026,,Each,Y,$1.00 ,Supported independent living,3
+Daily Tasks/Shared Living,assistance in a shared living arrangement for 2 persons - lower needs,14 027,"Assisting with and/or supervising tasks of daily life to develop the skills of the individuals with lower support needs to live as autonomously as possible. The benchmark is based on weekly costs, per participant.",Each,Y,"$2,079.67 ",Supported independent living,3
+Innov Community Participation,Innovative Community Participation,14 028,Mainstream services that promote inclusion of people with disability to expand opportunities for community participation and employment.,Each,N,$1.00 ,Increased social and community participation,9
+Development-Life Skills,Skills development in a group,15 002,Training for the participant in a group of 3 or more to increase their independence in daily personal activities.,Hour,N,$17.99 ,Increased social and community participation,9
+Development-Life Skills,"Individual personal life skills development & training, includes public transport training & support",15 004,Individual training provided in the home for general life skills to increase independence.,Hour,N,$41.18 ,Improved daily living skills,4
+Development-Life Skills,individual social skills development,15 005,"Social skills development with an individual, for participation in community and social activities.",Hour,N,$53.99 ,Improved relationships,11
+Development-Life Skills,training for carers/parents,15 008,Training for carers in matters related to caring for a person with disability,Hour,N,$53.99 ,Improved daily living skills,4
+Development-Life Skills,training in planning and plan management,15 009,training in planning and plan management for participants unable to do this independently but who could do all or part of the task with training.,Hour,N,$53.99 ,Improved life choices,14
+Development-Life Skills,individual skills development and training,15 011,"Individual life skills development and training including public transport training and support, developing skills for community, social and recreational participation. ",Hour,N,$53.99 ,Increased social and community participation,9
+Assist Prod-Pers Care/Safety,HEN pump and syringe feeds- annual,15 09 30 01,"Pump often free on loan, includes gastrostomy, extension tubes, giving sets, containers and syringes.",Each,Y,"$2,442.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,HEN pump only- annual,15 09 30 02,Pump often free on loan but includes other consumables for people who do not also syringe feed,Each,Y,"$2,142.00 ","Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,HEN bolus syringe only- annual,15 09 30 03,average annual allocation,Each,Y,$925.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional gastrostomy devices- 3 annual,15 09 30 20,average annual allocation,Each,Y,$280.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional extension sets for bolus feeding- 10 annual,15 09 30 21,average annual allocation,Each,Y,$140.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional extension sets for pump feeding- 10 annual,15 09 30 22,average annual allocation,Each,Y,$140.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional giving sets- 270 annual,15 09 30 23,average annual allocation,Each,Y,$950.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional containers- 50 annual,15 09 30 24,average annual allocation,Each,Y,$165.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional bolus syringes- 100 annual,15 09 30 25,average annual allocation,Each,Y,$60.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,additional water flush syringes- 100 annual,15 09 30 26,average annual allocation,Each,N,$50.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,Other HEN equipment including additional cost of food when necessary.,15 09 30 27,HEN equipment outside usual 12 month bundles,Each,Y,$500.00 ,"Assistance with daily life at home in the community, education and at work",1
+Early Childhood Supports,specialised group early childhood interventions,16 003,"Group based specialist interventions to assist a child with disability or developmental delay and their family in home, care, community and education settings. Maximum group of 4.",Hour,N,$57.38 ,Improved daily living skills,4
+Early Childhood Supports,specialised individual therapy for early childhood,16 005,"Individual specialist interventions to assist a child with disability or developmental delay and their family in home, care, community and education settings.",Hour,N,$172.13 ,Improved daily living skills,4
+Early Childhood Supports,transdisciplinary early childhood intervention,16 006,"A coordinated & integrated program where multiple professionals share responsibility in evaluating, planning & implementing supports to improve capacity of a child with disability or developmental delay & their family. Quote based on annual amount.",Each,Y,"$12,595.18 ",Improved daily living skills,4
+Equipment Special Assess Setup,Referral to Australian Hearing Community Service obligation program,17 020,For more info see http://hearingservices.gov.au/wps/portal/hso/site/eligibility/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJ9PA2MDI1MDLz8jc2NDDzNg0LNzExdDQ28TPULsh0VAaWtp70!/,Each,Y,$1.00 ,Assistive technology,5
+Equipment Special Assess Setup,Selection and/or manufacture of customised or wearable technology,17 021,Selection and/or manufacture of customised or wearable technology.,Hour,N,$155.34 ,Improved daily living skills,4
+Assist Prod-Pers Care/Safety,electric lift chairs- sit to stand,18 09 03 00,Chairs with an in built mechanical or electric system to assist participant in movement to a standing position.,Each,Y,"$1,300.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,lounge chairs with moulded seating,18 09 21 00,custom fit seating for people with body shape or pressure care needs to accommodate,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,modular seating systems,18 09 39 00,custom fit seating for people with body shape or pressure care needs to accommodate,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,adult postural chair with pressure relief- air type,18 09 39 01,custom fit seating for people with body shape or pressure care needs to accommodate,Each,Y,"$2,120.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,child postural chair with pressure relief- air type,18 09 39 02,custom fit seating for people with body shape or pressure care needs to accommodate,Each,Y,"$2,680.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,"child postural chair- feeding, minimum components- small",18 09 39 03,feeding seat for a child with basic supports,Each,Y,$970.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,"child postural chair- feeding, minimum components- medium",18 09 39 04,feeding seat for a child with basic supports,Each,Y,"$1,160.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,child postural chair with maximum components,18 09 39 05,"feeding seat for a child with supports for head, body hips feet etc.",Each,Y,"$1,100.00 ",Assistive technology,5
+Personal Mobility Equipment,seat cushion- air cushion - other,18 10 06 01,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,air cushion high profile,18 10 06 02,,Each,Y,$575.00 ,Assistive technology,5
+Personal Mobility Equipment,air cushion low profile,18 10 06 04,,Each,Y,$716.00 ,Assistive technology,5
+Personal Mobility Equipment,"combination cushion - gel, foam, and air",18 10 06 16,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,wheelchair head rest- complex support needs,18 10 12 01,head support for person with very high support needs due to high muscle tone or complete paralysis,Each,Y,"$2,000.00 ",Assistive technology,5
+Personal Mobility Equipment,customised backrest,18 10 13 01,back rest with components individually aligned for participant,Each,Y,"$1,260.00 ",Assistive technology,5
+Personal Mobility Equipment,custom made back rest,18 10 13 02,"For example, moulded or shaped rest or seat.",Each,Y,"$3,000.00 ",Assistive technology,5
+Personal Mobility Equipment,wheelchair tray,18 10 24 01,,Each,Y,$350.00 ,Assistive technology,5
+Personal Mobility Equipment,custom made backrest and seat,18 10 39 06,"For example, moulded or shaped rest or seat.",Each,Y,"$4,500.00 ",Assistive technology,5
+Personal Mobility Equipment,customised backrest and seat,18 10 39 07,"For example, moulded or shaped back rest and seats with components individually aligned for participant.",Each,Y,"$3,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,"beds - power adjust, estimate",18 12 10 01,,Each,Y,"$1,850.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,beds - power adjust 4 section,18 12 10 02,,Each,Y,"$1,850.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,beds - power adjust- child suitable rails,18 12 10 03,,Each,Y,"$2,500.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,beds - extra width or height power adjust,18 12 10 04,,Each,Y,"$4,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,beds - hi lo with companion bed,18 12 10 99,"hi-lo bed with second detachable bed for partner, detachment is to assist with care needs",Each,Y,"$4,500.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,bed blocks,18 12 12 05,,Each,N,$20.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed cradle- adjustable height,18 12 21 01,,Each,N,$70.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,sleep system,18 12 24 01,Positioning cushions to help a participant maintain a consistent and optimal position while sleeping or resting.,Each,Y,"$2,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,bed bolster,18 12 27 01,,Each,N,$210.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed wedges- foam 30cm,18 12 27 02,,Each,N,$125.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed rails covers,18 12 27 03,,Each,N,$190.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed rails,18 12 27 04,Rails which attach to a bed to prevent the participant falling out. Price guidance is for one bed rail.,Each,Y,$500.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,beds - extensions,18 12 33 00,,Each,Y,$250.00 ,Assistive technology,5
+Home Modification,home modifications- bathroom modification minimal structural work,18 18 00 01,"Moving a bath tub or enlarging a shower recess to improve access, or similar smaller work.",Each,Y,"$3,000.00 ",Home modifications,7
+Home Modification,home modifications- bathroom modification extensive structural work,18 18 00 02,"Extensive structural  bathroom changes. For example, removal of a bath or hobless-shower, electrical work, relocating plumbing, widening doorway, waterproofing or changes to the fit-out such as toilet, tap ware, basin, shower, rails paint and tiles.",Each,Y,"$13,000.00 ",Home modifications,7
+Home Modification,home modifications- bathroom modification including combining bathroom and toilet or laundry.,18 18 00 03,"Modifications to combine bathroom, toilet and laundry. Includes  bath removal, hobless shower creation, plumbing relocation, electrical work, doorway changes, waterproofing and changes to bathroom fittings.",Each,Y,"$16,000.00 ",Home modifications,7
+Home Modification,home modifications- kitchen adaption- no structural work,18 18 00 04,Modifications to a kitchen to enable a person with disability to access and use it.,Each,Y,"$3,000.00 ",Home modifications,7
+Home Modification,home modifications- minor miscellaneous adjustments,18 18 00 05,"Lower cost adaptions such as door adjustments, safety installations and bathroom fittings.",Each,Y,$100.00 ,Home modifications,7
+Home Modification,grab rails- internal supply and install,18 18 06 01,,Each,Y,$70.00 ,Home modifications,7
+Home Modification,home modifications- rails- external,18 18 06 02,,Each,Y,$600.00 ,Home modifications,7
+Home Modification,supply and install specialised wall taps,18 24 03 00,,Each,Y,$180.00 ,Home modifications,7
+Home Modification,elevator- home,18 30 03 00,,Each,Y,$1.00 ,Home modifications,7
+Home Modification,fixed vertical lifting platform-home,18 30 05 00,platform attached to stairs or vertical drop which a wheelchair or scooter rides on,Each,Y,$1.00 ,Home modifications,7
+Home Modification,free standing vertical lifting platform- home,18 30 07 00,non enclosed lifting platform similar to a lift usually traversing smaller distances than an enclosed lift/ elevator,Each,Y,$1.00 ,Home modifications,7
+Home Modification,stair lift with seat,18 30 10 00,seat and rails attached to stairs or incline for ambulant person to ride up stairs on,Each,Y,$1.00 ,Home modifications,7
+Home Modification,stair lift with platform,18 30 11 00,platform attached to rail or track to traverse person over stairs to upper or lower levels,Each,Y,$1.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 1200mm,18 30 15 01,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$500.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 1650mm,18 30 15 02,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$675.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 1350mm,18 30 15 03,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$695.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 2000mm,18 30 15 04,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$950.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 2000mm with edge,18 30 15 05,portable ramp suitable for outings etc but not permanently affixed,Each,Y,"$1,280.00 ",Home modifications,7
+Home Modification,ramp portable fibre glass 875mm,18 30 15 06,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$450.00 ,Home modifications,7
+Home Modification,ramp portable fibre glass 700mm,18 30 15 07,portable ramp suitable for outings etc but not permanently affixed,Each,Y,$400.00 ,Home modifications,7
+Home Modification,ramps timber with galvanised rails- 300 per lineal meter,18 30 18 01,permanently installed timber ramp with galvanised rails,Each,Y,$300.00 ,Home modifications,7
+Home Modification,ramps concrete with galvanised rails- 400 per lineal meter,18 30 18 02,permanently installed concrete ramp with galvanised rails,Each,Y,$400.00 ,Home modifications,7
+Home Modification,ramps modular aluminium removable 2400mm x 1200 mm,18 30 18 03,temporary removable ramps which are not portable,Each,Y,"$1,000.00 ",Home modifications,7
+Home Modification,ramps modular aluminium removable 600mm x 1200 mm,18 30 18 04,temporary removable ramps which are not portable,Each,Y,$600.00 ,Home modifications,7
+Home Modification,ramps modular aluminium removable 2400mm x 1800 (landing) mm,18 30 18 05,temporary removable ramps which are not portable,Each,Y,"$1,300.00 ",Home modifications,7
+Home Modification,ramps modular aluminium removable 1200mm x 1200 (landing) mm,18 30 18 06,temporary removable ramps which are not portable,Each,Y,$800.00 ,Home modifications,7
+Home Modification,home modifications- minor step ramp modification supply and fit landings and risers,18 30 18 07,,Each,Y,$600.00 ,Home modifications,7
+Home Modification,"home modifications- minor step ramp modification supply & fit landings, risers & bilateral handrails",18 30 18 08,,Each,Y,$800.00 ,Home modifications,7
+Home Modification,slip resistant tile coating- approx. 5m x 5m,18 33 15 00,,Each,Y,$350.00 ,Home modifications,7
+Home Modification,certification or approval of home modifications,19 001,Certifier independent of a builder who can advise on the compliance of plans with the necessary work undertaken.,Hour,Y,$1.00 ,Home modifications,7
+Home Modification,home modifications project manager or building certifier,19 002,Project manager or building certifier employed to ensure compliance with modifications plans to allow home access by person with disability,Hour,Y,$1.00 ,Home modifications,7
+Home Modification,consultation about home modification designs with builder,19 003,"drawings or plans which allow agreement to be confirmed, e.g. modifications and for quotes to be obtained",Hour,Y,$1.00 ,Home modifications,7
+Home Modification,project management of home modifications,19 004,"Project manager or certifier independent of a builder, who can provide advice on compliance of the plans with work undertaken and can co-ordinate quotes and payments.",Hour,Y,$1.00 ,Home modifications,7
+Household Tasks,house and/or yard maintenance,20 001,Performing essential house and or yard activities that the participant is not able to undertake.,Hour,N,$41.23 ,"Assistance with daily life at home in the community, education and at work",1
+Household Tasks,house cleaning and other household activities,20 002,Performing essential house cleaning activities that the participant is not able to undertake.,Hour,N,$36.96 ,"Assistance with daily life at home in the community, education and at work",1
+Household Tasks,linen service,20 003,Provision of clean linen to a participant unable to do their own laundry without assistance.,Each,Y,$20.00 ,"Assistance with daily life at home in the community, education and at work",1
+Household Tasks,assistance with the cost of preparation and delivery of meals,20 005,"Preparation and delivery of meals to a participant who is unable to do this themselves, and is not in receipt of other supports that would meet the same need. Food costs not included. Cost varies with the number of meals prepared and deliveries required.",Each,Y,$10.89 ,"Assistance with daily life at home in the community, education and at work",1
+Interpret/Translate,Auslan or signed English training,21 001,Training in the use of Auslan and other communication techniques; tafe course fee or equivalent.,Each,Y,$115.46 ,"Assistance with daily life at home in the community, education and at work",1
+Interpret/Translate,interpreting & translating,21 003,Services to interpret or translate another language.,Hour,N,$117.55 ,"Assistance with daily life at home in the community, education and at work",1
+Interpret/Translate,telephone or video interpreting,21 006,Telephone or video services to interpret or translate another language or format.,Hour,Y,$83.97 ,"Assistance with daily life at home in the community, education and at work",1
+Vision Equipment,image-enlarging video systems- zoom text,22 03 18 01,video system which magnifies text or pictures,Each,Y,$850.00 ,Assistive technology,5
+Vision Equipment,audio labellers,22 03 18 02,"scanners or similar which reads symbol, bar codes or text",Each,Y,$160.00 ,Assistive technology,5
+Hearing Equipment,hearing aid (one) higher needs-amount in addition to OHS subsidy,22 06 15 00,Monaural hearing device for voucher clients with higher needs from OHS Top-Up Schedule  (amount in addition to OHS subsidy),Each,Y,$800.00 ,Assistive technology,5
+Hearing Equipment,hearing aid (two) higher needs-amount in addition to OHS subsidy,22 06 15 01,Binaural hearing devices for voucher clients with higher needs -  from OHS Top Up schedule (amount in addition to OHS subsidy),Each,Y,"$1,600.00 ",Assistive technology,5
+Hearing Equipment,cochlear implant speech processor and coil,22 06 21 02,The external part of the Cochlear Implant which picks up speech and processes the sound,Each,N,"$8,050.00 ",Assistive technology,5
+Hearing Equipment,external components for other implantable devices,22 06 21 04,"external components for a range of implantable devices other than cochlear implants for people who are unable to use conventional hearing aids, including bone conduction devices and middle ear implants",Each,N,"$6,500.00 ",Assistive technology,5
+Assistive Prod-Household Task,other alarms and door bells,22 06 27 00,"Amplified, visual alert and/or vibratory alarms",Each,Y,$55.00 ,Assistive technology,5
+Hearing Equipment,hearing aid replacement fee OHS devices- over 25yrs not DVA,22 06 27 01,,Each,N,$30.00 ,Assistive technology,5
+Hearing Equipment,personal amplifiers/binaural listener,22 06 27 02,"Personal Sound amplifiers can be worn, systems usually consist of a small box with a microphone to pick up sound which is then amplified and sent to the ears via headphones or earbuds",Each,Y,$250.00 ,Assistive technology,5
+Hearing Equipment,loudspeakers,22 06 27 03,,Each,Y,$50.00 ,Assistive technology,5
+Hearing Equipment,tinnitus reduction device,22 06 27 04,May include higher technology hearing aids with tinnitus programs or stand-alone maskers and suppressors.,Each,Y,$200.00 ,Assistive technology,5
+Hearing Equipment,adapted landline telephone,22 06 27 05,"Telephones with features including amplified sound, different ring pitch and visual alerts using wireless Bluetooth with a landline",Each,Y,$75.00 ,Assistive technology,5
+Hearing Equipment,hearing aid maintenance OHS voucher client contribution,22 06 27 06,Annual maintenance contribution fee,Each,N,$40.53 ,Assistive technology,5
+Hearing Equipment,telephone coupler,22 06 27 07,Small portable device that attaches to the earpiece of the telephone  and amplifies sound,Each,Y,$60.00 ,Assistive technology,5
+Hearing Equipment,remote control,22 06 27 08,A remote control that enables changes to be made to hearing aids without touching the hearing devices. It allows access to volume and program changes for people with poor or nil manual dexterity and for use by carers.,Each,Y,$200.00 ,Assistive technology,5
+Hearing Equipment,streamer,22 06 27 09,"Enable wireless access to accessories such as mobile phones, MP3 players and audio devices for hearing aid users.",Each,Y,$350.00 ,Assistive technology,5
+Hearing Equipment,vibro tactile devices,22 06 27 10,A device that picks up sound and transforms it into a vibrating signal that is felt by the user,Each,Y,$1.00 ,Assistive technology,5
+Hearing Equipment,music devices,22 06 27 12,Portable couplers that allow hearing aid users to access music via audio devices,Each,Y,$60.00 ,Assistive technology,5
+Hearing Equipment,smoke alarm adapted for hearing impaired,22 06 27 13,Visual alert or vibrating smoke alarm packages,Each,Y,$400.00 ,Assistive technology,5
+Hearing Equipment,tv device for hearing assistance,22 06 27 14,Systems for delivering sound directly from the TV to the ear,Each,Y,$100.00 ,Assistive technology,5
+Comms & Info Equipment,voice generators,22 09 03 01,Device held to neck which picks up vibrations and amplifies as speech.,Each,Y,$650.00 ,Assistive technology,5
+Comms & Info Equipment,voice amplifiers for personal use,22 09 06 01,Device to amplify voice.,Each,Y,$400.00 ,Assistive technology,5
+Vision Equipment,assistive products for drawing and writing,22 12 00 01,,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,portable note-taking devices for braille,22 12 21 01,,Each,Y,"$4,495.00 ",Assistive technology,5
+Comms & Info Equipment,word processing software,22 12 24 00,,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,word processing software for alternate access- vision,22 12 24 01,e.g. jaws,Each,Y,"$1,150.00 ",Assistive technology,5
+Vision Equipment,word processing software for alternate access- text recognition stand alone,22 12 24 02,"e.g. clear reader, read easy",Each,N,"$2,400.00 ",Assistive technology,5
+Vision Equipment,sound recording and playing devices,22 18 03 01,"A desk top unit which magnifies paper based or detailed small objects. For example, Daisy Player",Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,cctv/ electronic magnification unit,22 18 18 01,desk top unit which magnifies paper based or detailed small objects,Each,Y,"$3,400.00 ",Assistive technology,5
+Vision Equipment,cctv electronic magnification unit- portable,22 18 18 02,hand held unit which magnifies paper based or detailed small objects,Each,Y,$750.00 ,Assistive technology,5
+Vision Equipment,image-enlarging video systems- desk top magnifier,22 18 18 03,,Each,Y,"$2,500.00 ",Assistive technology,5
+Vision Equipment,other vision equipment not listed,22 18 18 99,,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,decoders for videotext and text television,22 18 21 00,,Each,Y,$1.00 ,Assistive technology,5
+Hearing Equipment,radio frequency transmission systems for hearing,22 18 24 00,"Remote microphone sound transmission systems can be used to overcome difficulties with distance, background noise and reverberation",Each,Y,$600.00 ,Assistive technology,5
+Hearing Equipment,induction loop devices,22 18 30 00,"Designed for individual use in private and public situations including  reception counters, meetings and other appointments",Each,Y,$80.00 ,Assistive technology,5
+Comms & Info Equipment,microphones,22 18 33 00,,Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,face-to-face communication assistive products,22 21 00 00,"Communication boards accessed by pointing, eye gaze or other selection methods.",Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,communication software for computer or tablet,22 21 02 01,Software to convert a tablet or computer device to a communication device.,Each,Y,$170.00 ,Assistive technology,5
+Comms & Info Equipment,customised commercial tablet,22 21 02 02,,Each,Y,$900.00 ,Assistive technology,5
+Comms & Info Equipment,letter and symbol sets and boards,22 21 03 01,Books or boards with letter symbols or pictures that assist with communication.,Each,Y,$250.00 ,Assistive technology,5
+Comms & Info Equipment,communication amplifiers,22 21 06 00,device to amplify voice,Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,static-single button device which provides audible message output,22 21 09 01,,Each,Y,$250.00 ,Assistive technology,5
+Comms & Info Equipment,dynamic display dialogue units,22 21 09 02,communication device with customisable and changing screens which allows a highly customised voice output generation,Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,text to speech device,22 21 09 03,Keyed input converting text to speech.,Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,accessories for telephoning,22 24 21 01,e.g. multipurpose big button switch,Each,Y,$100.00 ,Assistive technology,5
+Vision Equipment,mobile phone with voice output and enlargement,22 24 21 02,,Each,Y,$475.00 ,Assistive technology,5
+Assistive Prod-Household Task,adapted clocks,22 27 12 00,,Each,Y,$80.00 ,Assistive technology,5
+Assistive Prod-Household Task,programmable memory aids,22 27 16 00,,Each,Y,$1.00 ,Assistive technology,5
+Hearing Equipment,baby cry alerting systems for hearing impaired,22 27 21 01,Visual or vibrating alert,Each,Y,$400.00 ,Assistive technology,5
+Comms & Info Equipment,keyboards/ key guards,22 36 03 01,guards that assist a person in activating the right part of a screen or keyboard,Each,Y,$150.00 ,Assistive technology,5
+Comms & Info Equipment,simple switches,22 36 12 01,"Including single input switches, pressure, touch, and puff.",Each,Y,$90.00 ,Assistive technology,5
+Comms & Info Equipment,switch adapted mouse,22 36 12 02,Computer mouse adapted for switch access.,Each,Y,$50.00 ,Assistive technology,5
+Comms & Info Equipment,input software i.e. voice activated software,22 36 18 01,Software that allows non-manual or alternate access to a computer.,Each,Y,$450.00 ,Assistive technology,5
+Comms & Info Equipment,head pointer,22 36 21 01,assistive products to position screen pointer and to select items on computer display,Each,Y,$300.00 ,Assistive technology,5
+Comms & Info Equipment,eye gaze system,22 36 21 02,Hardware and software that directs or selects inputs by gaze to activate a computer or communication device.,Each,Y,"$9,000.00 ",Assistive technology,5
+Vision Equipment,tactile computer displays,22 39 05 00,,Each,Y,"$4,000.00 ",Assistive technology,5
+Vision Equipment,braille printers- desk top,22 39 06 01,,Each,Y,"$3,500.00 ",Assistive technology,5
+Vision Equipment,braille printers- portable,22 39 06 02,,Each,Y,"$3,500.00 ",Assistive technology,5
+Vision Equipment,braille embosser- notetaker with voice output,22 39 06 03,,Each,Y,"$4,495.00 ",Assistive technology,5
+Comms & Info Equipment,static audible player display,22 39 07 01,,Each,Y,$450.00 ,Assistive technology,5
+Comms & Info Equipment,portable audible player for computer,22 39 07 02,,Each,Y,$500.00 ,Assistive technology,5
+Comms & Info Equipment,personal reader- speech output,22 39 07 03,,Each,Y,"$3,000.00 ",Assistive technology,5
+Comms & Info Equipment,personal reader- speech and visual output,22 39 07 04,,Each,Y,"$5,000.00 ",Assistive technology,5
+Participate Community,"assistance to access community, social/recreational acts-individual higher intensity-public holiday",23 001,Individual participation support by a support worker with additional qualifications and experience relevant to the participant’s complex needs on a public holiday.,Hour,N,$94.01 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social/recreational acts-individual higher intensity-weekday evening",23 002,Individual participation support by a support worker with additional qualifications and experience relevant to the participant’s complex needs during the weekday evening.,Hour,N,$47.67 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social/recreational acts - individual - higher intensity -Saturday",23 003,Individual participation support by a support worker with additional qualifications and experience relevant to the participant’s complex needs on a Saturday.,Hour,N,$60.31 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social/recreational acts - individual higher intensity -Sundays",23 004,Individual participation support by a support worker with additional qualifications and experience relevant to the participant’s complex needs on a Sunday.,Hour,N,$77.16 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social/recreational acts - individual higher intensity -weekdays",23 005,Individual participation support by a support worker with additional qualifications and experience relevant to the participant’s complex needs during the week.,Hour,N,$43.47 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social and recreational activities - individual -per public holiday",23 006,"Provision of support to enable a participant to independently engage in community, social and recreational activities on a public holiday.",Hour,N,$89.06 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social and recreational activities - individual -per weekday evening",23 007,"Provision of support to enable a participant to independently engage in community, social and recreational activities during the week",Hour,N,$45.17 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social and recreational activities - individual -per weekdays",23 008,"Provision of support to enable a participant to independently engage in community, social and recreational activities during the week",Hour,N,$41.18 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social and recreational activities - individual -Saturday",23 009,"Provision of support to enable a participant to independently engage in community, social and recreational activities on a Saturday.",Hour,N,$57.13 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"assistance to access community, social and recreational activities - individual -Sundays",23 010,"Provision of support to enable a participant to independently engage in community, social and recreational activities on a Sunday.",Hour,N,$73.11 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,group based activities in a centre - core,23 011,social and recreational activities in a centre based program,Hour,N,$18.64 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,group based activities in a centre - Saturday,23 013,Social and recreational activities in a centre based program on Saturdays,Hour,N,$27.32 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,group based activities in a centre - Sunday,23 014,social and recreational activities in a centre based program on Sundays,Hour,N,$34.95 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,group based activities in a centre - weekday evening,23 015,Social and recreational activities in a centre based program when the activity finishes after 8pm.,Hour,N,$20.46 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities",23 016,"Community, social and recreational activities in a group.",Hour,N,$20.59 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - Saturday",23 017,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on Saturdays",Hour,N,$28.57 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - Sunday",23 018,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on Sundays",Hour,N,$36.55 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - weekday evening",23 019,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on weekday evenings when the activity finishes after 8pm",Hour,N,$22.58 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"community, social and recreational activities",23 023,"Annual support to enable a participant to independently engage in community, social and recreational activities when costs of participation exceed an affordable level and without, the participant would be at risk of social isolation.",Each,N,$500.00 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity",23 024,"Community, social and recreational activities in a group with a staff ratio of a maximum of 2 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$27.40 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - Saturday",23 025,"Community, social and recreational activities on a Saturday in a group with a staff ratio of a maximum of 2 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$38.03 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - Sunday",23 026,"Community, social and recreational activities on a Sunday in a group with a staff ratio of a maximum of 2 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$48.66 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - weekday evening",23 027,"Social and recreational activities, when the activity finishes after 8pm, with a staff ratio of a maximum of 2 persons per staff member.",Hour,N,$30.07 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,community participation activities,23 028,Participation in community based activities that build skills and independence.,Each,N,$1.00 ,Increased social and community participation,9
+Participate Community,"group based community, social and recreational activities - ratio 1:3",23 029,"Community, social and recreation activities in a group at a 1:3 ratio",Hour,N,$13.73 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - Saturday - ratio 1:3",23 030,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on Saturdays at a 1:3 ratio",Hour,N,$19.04 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - Sunday - ratio 1:3",23 031,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on Sundays at a 1:3 ratio",Hour,N,$24.37 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - weekday evening - ratio 1:3",23 032,"Provision of support to enable a participant to engage in community, social and recreational activities in a group on weekday evenings when the activity finishes after 8pm at a 1:3 ratio",Hour,N,$15.06 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - ratio 1:3",23 033,"Community, social and recreational activities in a group with a staff ratio of a maximum of 3 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$18.27 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - Saturday - ratio 1:3",23 034,"Community, social and recreational activities on a Saturday in a group with a staff ratio of a maximum of 3 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$25.35 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - Sunday - ratio 1:3",23 035,"Community, social and recreational activities on a Sunday in a group with a staff ratio of a maximum of 3 persons per staff worker when the participant has challenging behaviour or high medical support needs.",Hour,N,$32.44 ,"Assistance with daily life at home in the community, education and at work",1
+Participate Community,"group based community, social and recreational activities - higher intensity - weekday evening - 1:3",23 036,"Social and recreational activities, when the activity finishes after 8pm, with a staff ratio of a maximum of 3 persons per staff member.",Hour,N,$20.05 ,"Assistance with daily life at home in the community, education and at work",1
+Assistive Prod-Household Task,environmental control systems,24 13 03 00,,Each,Y,$400.00 ,Assistive technology,5
+Assistive Prod-Household Task,environmental control unit,24 13 03 01,,Each,Y,$400.00 ,Assistive technology,5
+Assistive Prod-Household Task,ECU controlled wireless mains socket,24 13 03 02,,Each,Y,$70.00 ,Assistive technology,5
+Assistive Prod-Household Task,environmental control software,24 13 06 00,,Each,Y,$1.00 ,Assistive technology,5
+Comms & Info Equipment,fixed position systems - mounting for communication device,24 24 03 01,adjustable method of attaching communication device to wheelchair or furniture,Each,Y,$1.00 ,Assistive technology,5
+Physical Wellbeing,dietician consultation and diet plan development,25 001,Individual advice to a participant on managing diet for health and wellbeing due to the impact of their disability,Hour,N,$172.13 ,Improved health and wellbeing,12
+Physical Wellbeing,dietician group session,25 003,Group based specialist dietary advice on managing diet for wellbeing due to the impact of their disability,Hour,N,$57.38 ,Improved health and wellbeing,12
+Physical Wellbeing,exercise physiology,25 004,Individual advice to a participant regarding exercise required due to the impact of their disability,Hour,N,$140.06 ,Improved health and wellbeing,12
+Physical Wellbeing,exercise physiology in a group,25 005,advice to a participant regarding exercise required due to the impact of their disability provided in group setting,Hour,N,$46.69 ,Improved health and wellbeing,12
+Physical Wellbeing,personal training,25 008,Personal training provided to a participant required due to the impact of their disability.,Hour,N,$52.48 ,Improved health and wellbeing,12
+Plan Management,financial and service intermediary activities,26 001,Undertaking regular liaison with providers and monitoring support provision.,Hour,Y,$52.06 ,Improved life choices,14
+Plan Management,financial and service intermediary set up costs,26 002,The setting up of the financial and service management arrangements to assist with the managing of funding of supports.,Each,Y,$314.88 ,Improved life choices,14
+Plan Management,financial intermediary - set up costs,26 003,A one-off setting up of the financial management arrangements for managing of funding of supports.,Each,Y,$209.92 ,Improved life choices,14
+Plan Management,financial intermediary monthly processing,26 004,A monthly fee for the ongoing maintenance of the financial management arrangements for managing of funding of supports.,Each,Y,$31.49 ,Improved life choices,14
+Therapeutic Supports,counselling group,27 003,"Facilitating self-knowledge, emotional acceptance and growth and the optimal development of personal resources through a group session. Assisting participants to gain their personal goals and gain greater insight into their lives.",Hour,N,$48.02 ,Improved daily living skills,4
+Therapeutic Supports,individual counselling,27 005,"Facilitating self-knowledge, emotional acceptance and growth and the optimal development of personal resources on a one to one basis. Assist participants to work towards their personal goals and gain greater insight into their lives.",Hour,N,$144.07 ,Improved daily living skills,4
+Therapeutic Supports,Group therapy.,27 024,Provision of interventions by more than one professional in a group session towards the participants agreed goals,Hour,N,$57.38 ,Improved daily living skills,4
+Therapeutic Supports,therapy assistant,27 029,"Program to empower participants & improve interactions between participants & their social networks. Assistance to engage effectively in the community through a group approach to help achieve goals, gain insight into their lives & make informed decisions.",Hour,N,$40.12 ,Improved daily living skills,4
+Therapeutic Supports,"individual assessment, therapy and/or training (includes assistive technology)",27 034,"Assessment, therapy, training, fitting and any approved travel to deliver support.",Hour,N,$172.13 ,Improved daily living skills,4
+Therapeutic Supports,multidisciplinary team,27 035,Multidisciplinary model of support delivered to participants over 8 years to improve community outcomes for participant.,Each,N,$1.00 ,Improved daily living skills,4
+Training-Travel Independence,specialised driver training,28 004,Driving lessons required due to the impact of disability. This item should be in response to a driver trained specialist Occupational Therapist Assessment.,Each,Y,$95.00 ,Improved daily living skills,4
+Assistive Equip-Recreation,other adapted recreation equipment,30 00 00 09,"Products such as card holders, camera holders and adaptions to enable a person with disability to participate in recreational activity",Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,dog guide,30 000,Specially trained dog to guide person with vision impairment,Each,Y,$1.00 ,Assistive technology,5
+Vision Equipment,dog guide ongoing costs,30 001,"Ongoing costs for medication, annual vet checks, food etc",Each,Y,"$2,500.00 ",Assistive technology,5
+Assistive Equip-Recreation,switch adapted toys,30 03 03 01,Toys adapted with switches or other adaptions to enable a child or young person with disability to use them.,Each,Y,$100.00 ,Assistive technology,5
+Assistive Equip-Recreation,adapted books,30 03 03 02,books adapted with switches or other adaptions to enable a child or young person with disability to use them.,Each,Y,$50.00 ,Assistive technology,5
+Assistive Equip-Recreation,other toy adaptions,30 03 03 03,,Each,Y,$100.00 ,Assistive technology,5
+Assistive Equip-Recreation,track race wheelchair,30 09 00 10,,Each,Y,"$5,500.00 ",Assistive technology,5
+Assistive Equip-Recreation,sport adaptions to wheelchair (power or manual),30 09 00 11,,Each,Y,$500.00 ,Assistive technology,5
+Assistive Equip-Recreation,beach suitable wheelchair,30 09 00 12,,Each,Y,$800.00 ,Assistive technology,5
+Assistive Equip-Recreation,basketball wheelchair,30 09 03 01,,Each,Y,"$3,750.00 ",Assistive technology,5
+Assistive Equip-Recreation,rugby wheelchair,30 09 03 02,,Each,Y,"$4,750.00 ",Assistive technology,5
+Assistive Equip-Recreation,assistive products for audio visual pursuits,30 09 03 05,Interfaces that allow a person with disability to access recreational gaming equipment when unable to do so through conventional routes,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,adaptions for arm and hand prosthetics for sport and leisure,30 09 03 06,terminal device to enable participation in sport,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,environmental control for electronic leisure access,30 09 03 07,Interfaces which enable a person with disability to activate standard household audio visual equipment by switch scanning voice or eye gaze,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,specialist prosthetic lower limb for sports,30 09 03 08,,Each,Y,"$1,870.00 ",Assistive technology,5
+Assistive Equip-Recreation,prosthetic lower limb suitable for wet environments,30 09 03 09,,Each,Y,"$1,870.00 ",Assistive technology,5
+Assistive Equip-Recreation,specialised bowling equipment,30 09 12 01,,Each,N,$300.00 ,Assistive technology,5
+Assistive Equip-Recreation,adapted mobility toy,31 03 03 04,,Each,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,minor prosthetic repair - average price,50 06 24 01,,Each,Y,$250.00 ,Assistive technology,5
+Personal Mobility Equipment,major prosthetic repair - average price,50 06 24 02,,Each,Y,"$2,000.00 ",Assistive technology,5
+Assist Prod-Pers Care/Safety,bathing and toileting equipment repair,50 09 33 01,repairs to any toileting and bathing equipment,Each,N,$200.00 ,Assistive technology,5
+Personal Mobility Equipment,"repairs - mobility domain, wheeled mobility minor repair",50 12 00 01,smaller repairs on newer chairs recently past warranty,Each,Y,$580.00 ,Assistive technology,5
+Personal Mobility Equipment,"repairs - mobility domain, wheeled mobility major repair",50 12 00 02,"Includes repairs for chairs usually over 4 years old, which may require work on actuators or other parts.",Each,Y,$800.00 ,Assistive technology,5
+Vehicle modifications,repair vehicle modification,50 12 12 21,"Repairs to specialist vehicle hoists, tie downs, driving adaptions",Each,Y,$250.00 ,Vehicle modifications,6
+Personal Mobility Equipment,tyres,50 12 24 21,,Each,Y,$25.00 ,Assistive technology,5
+Personal Mobility Equipment,battery or charger,50 12 24 24,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,hoist repair- mobile or portable,50 12 36 01,,Each,N,$500.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,HEN equipment repairs,50 15 09 30,,Each,Y,$100.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,electric bed repair,50 18 12 01,,Each,N,$300.00 ,Assistive technology,5
+Comms & Info Equipment,communication equipment repairs,50 22 00 01,,Each,Y,$1.00 ,Assistive technology,5
+Hearing Equipment,cochlear and other implantable processor repairs,50 22 06 12,payable only if manufacturers invoice for repairs is retained,Each,Y,$370.00 ,Assistive technology,5
+Hearing Equipment,hearing aid battery and consumables supply,50 22 06 15,12 months battery supply per hearing aid,Each,N,$103.80 ,Assistive technology,5
+Vision Equipment,vision equipment repair,50 22 18 00,,Each,N,$300.00 ,Assistive technology,5
+Assistive Equip-Recreation,specialised recreation equipment repairs,50 30 00 00,,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bathing care and grooming aids,60 09 33 00,,Each,N,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,one or more small devices to assist with food and drink preparations,60 15 03 00,Includes adapted cooking utensils and basic appliances.,Each,N,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,one or more assistive products for eating and drinking,60 15 09 01,"Adapted cups, spoons, cutlery and other assistive products for eating and drinking.",Each,N,$100.00 ,Assistive technology,5
+Assistive Prod-Household Task,one or more assistive devices to assist with dishwashing,60 15 09 02,"Adapted dish cloths, utensils, detergent dispensers etc.",Each,N,$50.00 ,Assistive technology,5
+Assistive Prod-Household Task,other assistive equipment for household tasks,60 15 12 00,Equipment specially selected due to the persons disability that enables them to perform household tasks like cleaning or maintenance,Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,over bed table,60 18 03 15,,Each,Y,$70.00 ,Assistive technology,5
+Assistive Prod-Household Task,ECU rental,60 24 13 03,,Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,"toilet and bathroom equipment delivery, set up/ training",70 09 12 03,"Equipment delivery, removal from wrapping, fitting/adjusting for participant’s disability specific needs and or training.",Hour,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,"walking equipment delivery, set up/ training",70 12 06 03,"Equipment delivery, removal from wrapping, fitting/adjusting for participant’s disability specific needs and or training.",Each,Y,$50.00 ,Assistive technology,5
+Personal Mobility Equipment,"transfer equipment delivery, set up/ training",70 12 36 03,"equipment delivery, removal from wrapping ready, fitting/adjusting for participant and or training.",Each,Y,$100.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,seating/standing frame equipment delivery to a participant,70 18 09 39,"Equipment delivery, removal from wrapping, fitting/adjusting for participant’s disability specific needs and or training.",Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,"bed/ mattress equipment delivery, set up/ training",70 18 12 10,"Equipment delivery, removal from wrapping, fitting/adjusting for the participant’s disability specific needs and/or training in usage.",Each,Y,$100.00 ,Assistive technology,5
+Vision Equipment,"vision equipment delivery, set up/ training",70 22 18 00,"Equipment delivery, removal from wrapping, fitting/adjusting for participant and or training.",Each,N,$100.00 ,Assistive technology,5
+Assistive Prod-Household Task,"ECU equipment delivery, set up/ training",70 24 13 03,"Equipment delivery, removal from wrapping, fitting/adjusting for participant disability specific needs and/ or training.",Each,Y,$300.00 ,Assistive technology,5
+Assistive Equip-Recreation,"recreation equipment delivery, set up/ training",70 30 00 00,"Equipment delivery, removal from wrapping, set up adjustment and training for the participant's disability specific needs.",Each,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,"mobility equipment delivery, set up/ training",70 50 12 00,"equipment delivery, removal from wrapping ready, fitting/adjusting for participant and or training.",Each,Y,$100.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,toilet and bathroom equipment delivery,71 09 12 03,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,continence aids delivery - non metropolitan,71 09 30 01,Delivery of continence items in regional and remote areas - expected maximum up to 4 deliveries per year.  Price guidance is per delivery.,Each,N,$30.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,continence aids delivery - metropolitan,71 09 30 02,Delivery of continence items in regional Metropolitan areas - expected maximum up to 4 deliveries per year. Price guidance is per Delivery.,Each,N,$22.50 ,"Assistance with daily life at home in the community, education and at work",1
+Personal Mobility Equipment,walking equipment delivery to a participant,71 12 06 03,equipment delivery and removal from wrapping ready for use,Each,Y,$25.00 ,Assistive technology,5
+Vehicle modifications,vehicle related equipment delivery to a participant,71 12 12 21,,Each,N,$50.00 ,Vehicle modifications,6
+Personal Mobility Equipment,transfer equipment delivery to a participant,71 12 36 03,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,HEN equipment delivery,71 15 09 30,,Each,Y,$50.00 ,"Assistance with daily life at home in the community, education and at work",1
+Assist Prod-Pers Care/Safety,"seating/standing frame equipment delivery, set up/ training",71 18 09 39,"equipment delivery, removal from wrapping ready, fitting/adjusting for participant and or training.",Each,Y,$100.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed/ mattress equipment delivery to a participant,71 18 12 10,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Vision Equipment,vision equipment delivery to a participant,71 22 18 00,equipment delivery and removal from wrapping ready for use,Each,N,$25.00 ,Assistive technology,5
+Assistive Prod-Household Task,ECU equipment delivery to a participant,71 24 13 03,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Assistive Equip-Recreation,recreation equipment delivery to a participant,71 30 00 00,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Personal Mobility Equipment,mobility equipment delivery,71 50 12 00,equipment delivery and removal from wrapping ready for use,Each,Y,$50.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,toilet and bathroom equipment rental,80 09 12 01,short term rental or hire of bathroom or toilet equipment,Each,Y,$100.00 ,Assistive technology,5
+Personal Mobility Equipment,walking equipment rental,80 12 06 03,,Each,Y,$15.00 ,Assistive technology,5
+Personal Mobility Equipment,transfer equipment rental,80 12 36 03,Equipment rental -  per week,Each,Y,$1.00 ,Assistive technology,5
+Assist Prod-Pers Care/Safety,bed and mattress rental,80 18 12 10,weekly rate,Each,Y,$50.00 ,Assistive technology,5
+Vision Equipment,vision equipment rental,80 22 18 00,per week rate,Each,Y,$1.00 ,Assistive technology,5
+Assistive Equip-Recreation,recreation equipment rental,80 30 00 00,,Each,Y,$1.00 ,Assistive technology,5
+Personal Mobility Equipment,mobility equipment rental,80 50 12 00,"short term rental of personal mobility equipment, quote not required but marked this way to allow price adjustment.",Each,Y,$50.00 ,Assistive technology,5

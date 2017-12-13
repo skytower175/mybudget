@@ -1,0 +1,149 @@
+/* Common elements all/some resolutions need */
+@import url("../StyleSheet.css");
+@import url("backup/largeShared.css");
+
+/*The index page columns*/
+/*container style*/
+.indexSections{
+	width: 100%;
+	margin-top: 150px;
+	background: #fff;
+	padding-top: 100px;
+	float: left;
+}
+
+.indexSections h2{
+	font-family: 'BagnardSans', serif;
+	font-size: 32px;
+	color: #5e5e5e;
+}
+
+.indexSections p{
+	font-family: 'taile', Sans-Serif;
+	font-size: 14px;
+	line-height: 1.2;
+}
+
+/*the 3 info boxes styles*/
+.budgetIndex{
+	width: 33.2%;
+	float: left;
+	text-align: right;
+	padding-left: 5%;
+	padding-right: 2px;
+}
+
+.insturctionsIndex{
+	width: 33.2%;
+	float: left;
+	text-align: center;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+
+}
+
+.serviceProvidersIndex{
+	width: 33.2%;
+	float: left;
+	text-align: left;
+	padding-right: 5%;
+
+}
+
+/*Style positions for each icon*/
+.budgetIndex .sectionImg{
+	margin-top: -200px;
+	right:2px;
+}
+
+.insturctionsIndex .sectionImg{
+	margin-top: -200px;
+}
+
+.serviceProvidersIndex .sectionImg{
+	margin-top: -200px;
+	left:2px;
+}
+
+#endvLogoB{
+	max-width: 1400px;
+}
+
+@media screen and (min-width: 1920px) {
+.MBBLogo{
+	width: 38%;
+}
+
+.MBBLogo h2{
+	text-align: center;
+	font-size: 56px;
+}
+
+.MBBLogo p{
+	font-size: 18px;
+}
+}
+
+
+
+.bgContainer{
+	width: 85%;
+	border: 2px solid #7a7a7a;
+	border-top: none;
+	background: #fff;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.budgetWrap{
+	border: 5px solid #e5742e;
+	width: 90%;
+	margin: 0 auto;
+	border-radius: 4px;
+	margin-bottom: 60px;
+}
+
+.toolHeader{
+	width: 90%;
+	float: left;
+	position: relative;
+	left: 5%;
+	background-color: #e5742e;
+	border-radius: 4px;
+	min-height: 70px;
+}
+
+#viewSummary{
+	float: left;
+	margin-left: 20px;
+	text-decoration: none;
+	color: #3c3c3c;
+	height: 22px;
+	padding: 0 2px;
+	margin-top: -2px;
+}
+
+#viewSummary:focus {
+	outline:0;
+}
+
+.progress{
+	width: 40% !important;
+	background: #d0d0d0;
+	float: left;
+}
+
+.progress_bar {
+	height:36px;
+	width: auto;
+	margin: 0 0 0 25%;
+	padding: 8px 0 0 0;
+}
+
+.progress_bar p{
+	float: left;
+	margin:  1px 20px 0 0;
+	font-weight: bold;
+	font-family: 'taile', Sans-Serif;
+	font-size: 14px;
+}

@@ -1,0 +1,1410 @@
+/* ALL STYLES */
+@media screen and (min-width: 0px) {
+	/* Set the browser to default */
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+	/* Import the three fonts used on website */
+	@font-face {
+		font-family: BagnardSans;
+		src: url("fonts/BagnardSans.otf") format("opentype");
+	}
+
+	@font-face {
+		font-family: taile;
+		src: url("fonts/taile.ttf");
+	}
+
+	@font-face {
+		font-family: FromWhereYouAre;
+		src: url("fonts/FromWhereYouAre.ttf");
+	}
+
+	/* General background color */
+	body {
+		background-color: #d0d0d0;
+	}
+
+	/* NAVBAR STYLE */
+	/*customize the bootstrap navbar*/
+	.navbar-inverse {
+		background: none;
+		filter: none; /*for I.E */
+		border: none;
+		box-shadow: none;
+		margin-bottom: 0;
+		border-radius: 0;
+
+		background-color: #383838;
+	}
+
+	/*basic navbar link elements*/
+	.navbar .nav > li > a {
+		color: #ede7e7;
+		text-shadow: none;
+		font-size: 16px;
+
+	}
+
+	/*this is navbar hover styles*/
+	.navbar .nav > li > a:hover {
+		background-color: #e5742e;
+	}
+
+	/*this is navbar hover styles*/
+	.navbar .nav .active > a:hover {
+		background-color: #e5742e;
+	}
+
+	/*orange line under navbar*/
+	.orangeLine {
+		width: 100%;
+		background-color: #e5742e;
+		height: 6px;
+	}
+
+	/* line under banner to give more depth */
+	.bannerLine {
+		margin-top: -2px;
+		width: 100%;
+		background-color: #333;
+		height: 3px;
+	}
+
+	/* Style for the budget planner general */
+	.panel-group {
+		margin-bottom: 0;
+	}
+
+	.panel-group > .panel-default {
+		border-radius: 0;
+		margin-top: -1px;
+	}
+
+	/* The panel header font and the items in the panel */
+	.budgetWrap a {
+		display: block;
+		width: 100%;
+		padding: 17px 0 5px 70px;
+		text-decoration: none;
+	}
+
+	.budgetHead{
+		min-height: 50px;
+	}
+
+	/* The icons for each panel */
+	.budgetIcon {
+		position: absolute;
+		margin: -10px 0 0 -55px;
+	}
+
+	.panel > .panel-heading > .panel-title {
+		font-family: 'taile', Sans-Serif;
+		font-size: 18px;
+		font-weight: 500;
+		color: #000
+	}
+
+	.panel-title, .panel-heading {
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+
+    .idStuff{
+        display:block;
+        max-width: 62%;
+        float:left;
+    }
+
+	/* The area above the panels */
+	.input-group {
+		margin: 0 auto;
+		margin-bottom: 1px;
+		width: 100%;
+		height: 60px;
+		padding-left: 25px;
+	}
+
+	/* The style for the initial amount box */
+	#txtInitial {
+		height: 30px;
+		width: 150px;
+		border-radius: 5px;
+		margin-top: 15px;
+		margin-right: 50px;
+		font-size: 14px;
+		padding: 0 0 0 5px;
+	}
+
+	#sizing-addon1 {
+		background: none;
+		border: none;
+		font-family: 'taile', Sans-Serif;
+		font-size: 20px;
+		font-weight: 600;
+		color: #434343;
+	}
+
+	/* add a border to text field */
+	.amount {
+		border: 1px solid #878787;
+		float: right;
+		border-radius: 4px;
+	}
+
+	.price{
+		float: right;
+	}
+
+	/* second area above panel */
+	.budgetTotal {
+		margin-top: 16px;
+		font-size: 20px;
+		font-family: 'taile', Sans-Serif;
+		font-size: 20px;
+		font-weight: 600;
+		color: #434343;
+	}
+
+	/* The text area field before the budget planner*/
+	.budgetPlannerIntro {
+		margin: 0 5% 10px 5%;
+	}
+
+	.budgetPlannerIntro > h1 {
+		font-family: 'bagnardSans', serif;
+		font-size: 34px;
+	}
+
+	.budgetPlannerIntro > p {
+		font-family: 'taile', Sans-Serif;
+		font-size: 16px;
+	}
+
+	.fillBudgetBold {
+		font-weight: 900;
+	}
+
+	/* Search styling for the tool */
+	.toolSearch {
+		border: 1px solid black;
+		padding-left: 5px;
+		font-size: 14px;
+	}
+
+	.headerIcons{
+		margin-top: -50px;
+		margin-right: -40px;
+		margin-bottom: 10px;
+		width: 40px;
+		height: auto;
+	}
+
+	#followbtn {
+		text-decoration: none;
+		color: #000;
+	}
+
+	#resetLink {
+		text-decoration: none;
+		color: #000;
+	}
+
+    .search-hide {
+        display:none;
+    }
+
+    .wizard-hide {
+        display:none;
+    }
+
+	/* BUDGET PLANNER TABLE STYLE */
+	/* make the whole bar clickable */
+	.panel-title a {
+		width: 100%;
+	}
+
+	.item-row {
+		padding: 10px;
+		float: left;
+		border: 1px solid black;
+		min-height: 44px;
+		width: 100%;
+		position: relative;
+	}
+
+	.amount {
+		width: 100px;
+		font-size: 12px;
+		padding: 2px 0 1px 5px;
+	}
+
+	/* WIZARD STYLE */
+	#wizard {
+		border: 5px solid #e5742e;
+		width: 80%;
+		display: block;
+		margin: 0 auto 40px auto;
+		position: relative;
+	}
+
+	.qn {
+		display: none;
+	}
+
+	.qn h3 {
+		font-size: 38px;
+		font-family: 'bagnardSans', serif;
+		text-align: center;
+		margin: 0;
+		padding: 20px 20px 20px 20px;
+		background: #e8e8e8;
+		border-bottom: 1px solid #d9d9d9;
+	}
+
+	.qn .wizText{
+		margin: 20px 0 50px 0;
+		font-size: 22px;
+		font-family: 'taile', Sans-Serif;
+		text-align: center;
+		padding: 0 15px 0 15px;
+	}
+
+	.qn:first-child {
+		display: block;
+	}
+
+	.qn > label > input {
+		visibility: hidden;
+	}
+
+	.qn > label {
+		display: block;
+		margin: 20px 49% 10px 0;
+		padding: 0 0 20px 0;
+		height: 60px;
+		width: auto;
+		font-family: 'taile', Sans-Serif;
+		font-size: 24px;
+		font-weight: bold;
+		text-align: right;
+	}
+
+	.qn > label > img {
+		display: inline-block;
+		height: 37px;
+		width: 37px;
+		border: solid 1px #3c3c3c;
+	}
+
+	.qn > label > input:checked + img {
+		background: url(../img/icons/tick.png);
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: 30px 30px;
+	}
+
+	.questionNum{
+		position: absolute;
+		font-size: 14px;
+		left: 10px;
+		top: 20px;
+		font-weight: bold;
+		color: #7d7d7d;
+	}
+
+	.wizStyle, #back, .wizButtons, #wizSubmit {
+		padding: 10px;
+		width: 120px;
+		height: 60px;
+		background-color: #3c3c3c;
+		color: #f7f7f7;
+		border-radius: 12px;
+		border: none;
+		font-size: 18px;
+		font-family: 'bagnardSans', serif;
+		display: inline-block;
+	}
+
+	#startStart{
+		margin: 10px 0 20px 55%;
+	}
+
+	#startStart, #startClose{
+		padding: 10px;
+		width: 220px;
+		height: 100px;
+		background-color: #3c3c3c;
+		color: #f7f7f7;
+		border-radius: 12px;
+		border: none;
+		font-size: 18px;
+		font-family: 'bagnardSans', serif;
+		display: inline-block;
+	}
+
+	#startClose{
+		position: absolute;
+		right: 55%;
+		margin-top: 10px
+	}
+
+	#back{
+		margin: 5px;
+	}
+
+	#wizNo{
+		margin-left: 18%;
+		margin-right: 10px;
+	}
+
+	#wizSubmit{
+		position: absolute;
+		margin-left: 200px;
+		bottom: 5px;
+	}
+
+	.nextStyle:hover, #back:hover, .wizButtons:hover, #wizSubmit:hover {
+		background-color: #0f0f0f;
+	}
+
+	.nextStyle:focus, #back:focus, .wizButtons:focus, #wizSubmit:focus {
+		outline: 0;
+	}
+
+	.static_bar {
+		height: 36px;
+		width: 100%;
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		background: #fff;
+		border-top: 1px solid #e2e2e2;
+		z-index: 10;
+	}
+
+	#clickToWizard, #linktondis{
+		text-decoration: none;
+		color: #c1712e;
+	}
+
+	#clickToWizard:hover {
+		color: #b15a22;
+	}
+
+	.wizardClose{
+		position: absolute;
+		width: 45px;
+		height: auto;
+		right: 5px;
+		margin-top: 5px;
+	}
+
+	/* login icon style */
+	.glyphicon-user {
+		margin-right: 5px;
+	}
+
+	/* pie chart style*/
+	#piechart {
+		position: relative;
+		width: 80%;
+	}
+
+	/* Style for the budget description area */
+	.budgetDescription{
+		margin: 10px 0 0 10px;
+		padding: 0 !important;
+		color: #c1712e;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	.budgetDescription:hover{
+		color: #b15a22;
+	}
+
+	.budgetDescription:focus{
+		color: #b15a22;
+	}
+
+	a > .budgetDescription{
+		height: 10px;
+		width: 100px !important;
+	}
+
+	/* print link */
+	#printLink{
+		color: #000;
+		text-decoration: none;
+	}
+
+	#printLink:hover{
+		color: #000;
+	}
+
+    /*sponsored budget items*/
+    .item-row.sponsored{
+        background-color: #fff5eb;
+    }
+
+    .endvSpono{
+        display: none;
+    }
+    .item-row.sponsored > .endvSpono{
+        display: block !important;
+        margin-bottom: 10px;
+    }
+
+}
+
+
+/* WIDE SCREEN ONLY!*/
+@media screen and (min-width: 992px) {
+	/*The index page columns*/
+	/*container style*/
+	.indexSections{
+		width: 100%;
+		margin-top: 150px;
+		background: #fff;
+		padding-top: 100px;
+		float: left;
+	}
+
+	.indexSections h2{
+		font-family: 'BagnardSans', serif;
+		font-size: 32px;
+		color: #5e5e5e;
+	}
+
+	.indexSections p{
+		font-family: 'taile', Sans-Serif;
+		font-size: 14px;
+		line-height: 1.2;
+	}
+
+
+	/*the 3 info boxes styles*/
+	.budgetIndex{
+		width: 33.2%;
+		float: left;
+		text-align: right;
+		padding-left: 5%;
+		padding-right: 2px;
+	}
+
+	.insturctionsIndex{
+		width: 33.2%;
+		float: left;
+		text-align: center;
+		padding-left: 2.5%;
+		padding-right: 2.5%;
+
+	}
+
+	.serviceProvidersIndex{
+		width: 33.2%;
+		float: left;
+		text-align: left;
+		padding-right: 5%;
+
+	}
+
+	/*Style positions for each icon*/
+	.budgetIndex .sectionImg{
+		margin-top: -200px;
+		right:2px;
+	}
+
+	.insturctionsIndex .sectionImg{
+		margin-top: -200px;
+	}
+
+	.serviceProvidersIndex .sectionImg{
+		margin-top: -200px;
+		left:2px;
+	}
+
+	#endvLogoB{
+		max-width: 1400px;
+	}
+
+	.totalArea {
+		position: absolute;
+		margin-top: 24px;
+		right: 10px;
+		text-align: right;
+		min-width: 500px;
+	}
+
+	.item-row {
+		min-height: 58px;
+	}
+
+	.bgContainer{
+		width: 85%;
+		border: 2px solid #7a7a7a;
+		border-top: none;
+		background: #fff;
+		margin: 0 auto;
+		padding-top: 20px;
+	}
+
+	.budgetWrap{
+		border: 5px solid #e5742e;
+		width: 90%;
+		margin: 0 auto;
+		border-radius: 4px;
+		margin-bottom: 60px;
+	}
+
+	.toolHeader{
+		width: 90%;
+		float: left;
+		position: relative;
+		left: 5%;
+		background-color: #e5742e;
+		border-radius: 4px;
+		min-height: 80px;
+	}
+
+	#viewSummary{
+		float: left;
+		margin-left: 20px;
+		text-decoration: none;
+		color: #3c3c3c;
+		height: 22px;
+		padding: 0 2px;
+		margin-top: -2px;
+	}
+
+	#viewSummary:focus {
+		outline:0;
+	}
+
+	.progress{
+		width: 40% !important;
+		background: #d0d0d0;
+		float: left;
+	}
+
+	.progress_bar {
+		height:36px;
+		width: auto;
+		margin: 0 0 0 25%;
+		padding: 8px 0 0 0;
+	}
+
+	.progress_bar p{
+		float: left;
+		margin:  1px 20px 0 0;
+		font-weight: bold;
+		font-family: 'taile', Sans-Serif;
+		font-size: 14px;
+	}
+
+
+
+}
+
+
+/* WIDE SCREEN AND TABLET TOGETHER!*/
+@media screen and (min-width:481px){
+
+	.rslides {
+		position: relative;
+		list-style: none;
+		overflow: hidden;
+		width: 100%;
+		padding: 0;
+		margin: 0;
+	}
+
+	.rslides li {
+		-webkit-backface-visibility: hidden;
+		position: absolute;
+		display: none;
+		width: 100%;
+		left: 0;
+		top: 0;
+	}
+
+	.rslides li:first-child {
+		position: relative;
+		display: block;
+		float: left;
+	}
+
+	.rslides img {
+		display: block;
+		height: auto;
+		float: left;
+		width: 100%;
+		border: 0;
+	}
+
+	.MBBLogo {
+		position: absolute;
+		margin-top: -170px;
+		height: 170px;
+		background: rgba(0, 0, 0, 0.7);
+		z-index: 1000;
+		right:0;
+		width: 44%;
+		padding-left:2.5%;
+		padding-right:2.5%;
+	}
+
+	.MBBLogo h2{
+		font-family: 'FromWhereYouAre', Sans-Serif;
+		font-size: 3.53vw;
+		color: #fff;
+		opacity: 1;
+	}
+
+	.calcSymbols {
+		float: left;
+		margin-top: 10px;
+		width: 50%;
+	}
+
+	.MBBLogo p{
+		font-family: 'bagnardSans', serif;
+		font-size: 16px;
+		float: left;
+		color: #fff;
+		width:50%;
+		margin-top: 22px;
+		text-align: right;
+	}
+
+	.endvLogo{
+		position: absolute;
+		margin-bottom: -62px;
+		z-index: 1000;
+		padding-top: 8px;
+		padding-left: 8px;
+	}
+
+
+	/* STYLE FOR CONTENT PAGES */
+	.instructionsContainer{
+		margin: auto;
+		width: 70%;
+		border: 2px solid #7a7a7a;
+		background: #fff;
+		padding: 3.5%;
+		margin-top: 120px;
+	}
+
+	.instructionsContainer p{
+		font-family: 'taile', Sans-Serif;
+		font-size: 16px;
+		margin-top: 20px;
+	}
+
+	.instructionsContainer h2{
+		text-align: center;
+		border-bottom: 1px solid #000;
+		padding-bottom: 5px;
+		margin-top: -10px;
+		font-family: 'bagnardSans', serif;
+		font-size: 52px;
+	}
+
+	.instructionsContainer h3{
+		font-family: 'bagnardSans', serif;
+		font-size: 24px;
+		padding-top: 10px;
+		margin-bottom: 20px;
+	}
+
+	.instructionsSection h3{
+		text-align: center;
+	}
+
+
+	.instructionsContainer .instructionImg{
+		position: absolute;
+		margin-top: -120px;
+		margin-left: -100px;
+	}
+
+	.NDISSection{
+		margin: 50px 0 50px 0;
+	}
+
+	.FAQSection a{
+		display: block;
+		width: 100%;
+		height: 50px;
+		padding: 15px 0 0 60px;
+		text-decoration: none;
+	}
+	.form-control{
+		width: 70%;
+	}
+
+	.contactPadding p{
+		margin-left: 80px;
+	}
+
+	.contactPadding h3{
+		margin: 30px 0 12px 5px;
+		font-size: 26px;
+		color: #95570b
+	}
+	.contactPadding h4{
+		margin: 15px 0 20px 30px;
+		font-family: 'taile', Sans-Serif;
+		font-size: 18px;
+		font-weight: 600;
+	}
+}
+
+
+/* TABLET ONLY STYLE!*/
+@media screen and (min-width:481px) and (max-width:991px){
+
+	body{
+		background-color: #d0d0d0;
+	}
+	#endvLogoB{
+		min-width: 170px;
+	}
+
+	#calcSymB{
+		width: 155px;
+	}
+	.MBBLogo {
+		margin-top: -100px;
+		height: 100px;
+		width: auto;
+	}
+
+	.MBBLogo h2{
+		font-size: 26px;
+		float: left;
+		margin-top: 20px;
+		margin-right: 10px;
+	}
+
+	.calcSymbols {
+		margin-top: 30px;
+		float: right;
+		width: auto;
+		margin-right: -10px;
+	}
+
+	.MBBLogo p{
+		position: absolute;
+		left: 0;
+		margin: 55px 0 0 4%;
+		padding-left: 0;
+		font-size: 14px;
+		text-align: left;
+	}
+
+	/*Style for the images and font size*/
+	.indxImg{
+		width: 17.5vw;
+		height: auto;
+		margin: 0px 20px 20px 2.5%;
+		float: left;
+	}
+
+	.indexSections{
+		width: 100%;
+		margin-top: 0px;
+		background: #fff;
+		padding-top: 40px;
+		float: left;
+	}
+
+	.indexSections h2{
+		font-family: 'BagnardSans', serif;
+		font-size: 4.5vw;
+		color: #5e5e5e;
+	}
+
+	.indexSections p{
+		font-family: 'taile', Sans-Serif;
+		font-size: 2vw;
+		line-height: 1.2;
+		margin-right: 2.5%;
+		margin-bottom: 50px;
+	}
+
+	.budgetWrap{
+		border: 5px solid #e5742e;
+		width: 95%;
+		margin: 0 auto;
+		border-radius: 4px;
+		margin-bottom: 60px;
+	}
+
+	.bgContainer{
+		width: 100%;
+		background: #fff;
+		margin: 0 auto;
+		padding-top: 20px;
+	}
+
+	.toolHeader{
+		width: 95%;
+		float: left;
+		position: relative;
+		left: 2.5%;
+		background-color: #e5742e;
+		border-radius: 4px;
+		min-height: 70px;
+	}
+
+	#wizard{
+		width: 95%;
+	}
+
+	#wizardClose {
+		padding:0;
+	}
+
+	.qn h3{
+		padding: 20px 32px 20px 32px;
+		letter-spacing: -1px;
+	}
+	#viewSummary{
+		float: left;
+		margin-left: 20px;
+		text-decoration: none;
+		color: #3c3c3c;
+		height: 22px;
+		padding: 0 2px;
+		margin-top: -2px;
+	}
+
+	#viewSummary:focus {
+		outline:0;
+	}
+
+	.progress{
+		width: 35% !important;
+		background: #d0d0d0;
+		float: left;
+	}
+
+	.progress_bar {
+		height:36px;
+		width: auto;
+		margin: 0 0 0 12%;
+		padding: 8px 0 0 0;
+	}
+
+	.progress_bar p{
+		float: left;
+		margin:  1px 20px 0 0;
+		font-weight: bold;
+		font-family: 'taile', Sans-Serif;
+		font-size: 14px;
+	}
+
+	/*Added responsiveness for contact/instructions*/
+    .instructionImg > img{
+        width: 120px;
+        height: auto;
+        margin: 50px 0 0 30px;
+    }
+
+    .instructionsContainer{
+        width: 80%;
+    }
+}
+
+
+
+/*SEPARATE FOR IE COMPATIBILITY AND RESPONSIVENESS*/
+
+/* Extra responsive style for below 670px for total spent */
+@media screen and (max-width: 670px) {
+
+	.budgetTotal {
+		position: absolute;
+		width: 350px;
+		left: 0;
+		margin: 55px 0 0 40px;
+	}
+
+	.input-group {
+		margin-bottom: 35px;
+	}
+}
+/* Extra responsive style for tool header above 992px */
+@media screen and (min-width: 992px) {
+	.toolHeader > h2 {
+		margin-top: 22px;
+		width: 270px;
+		float: left;
+		padding-left: 42px;
+		font-size: 36px;
+		font-family: 'bagnardSans', serif;
+	}
+
+	.toolHeader > p {
+		width: 8%;
+		float: right;
+		padding-top: 47.5px;
+		margin-bottom: -10px;
+	}
+
+	.toolSearch {
+		margin-top: 22px;
+		padding: 4px;
+		border-radius: 4px;
+		width: 42%;
+		float: left;
+		height: 35px;
+		margin-left: 10px;
+	}
+}
+/* Extra responsive style for tool header below 991px */
+@media screen and (max-width: 991px) {
+	.toolHeader > h2 {
+		margin-top: 10px;
+		margin-bottom: 60px;
+		width: 280px;
+		float: left;
+		padding-left: 80px;
+		font-size: 30px;
+		font-family: 'bagnardSans', serif;
+	}
+
+	.toolSearch {
+		position: absolute;
+		left: 50px;
+		margin-top: 50px;
+		padding: 4px;
+		border-radius: 4px;
+		width: 250px;
+		height: 35px;
+	}
+
+	.toolHeader > p {
+		width: 10%;
+		float: right;
+		padding-top: 70.5px;
+		margin-right: 10px;
+		margin-bottom: -30px;
+	}
+}
+@media screen and (max-width: 700px) and (min-width: 481px){
+	.price {
+		position: absolute;
+		right: 10px;
+	}
+
+	.amount {
+		margin-top: 25px;
+		font-size: 12px;
+		padding: 2px 0 1px 5px;
+		float: right;
+		display: inline-block;
+		margin-bottom: 20px;
+	}
+
+	.totalArea {
+		position: absolute;
+		margin-top: 48px;
+		right: 10px;
+		text-align: right;
+		min-width: 500px;
+	}
+
+	.item-row {
+		min-height: 82px;
+	}
+}
+@media screen and (min-width: 700px){
+	.price {
+		margin-right: 5px;
+	}
+
+	.totalArea {
+		position: absolute;
+		margin-top: 24px;
+		right: 10px;
+		text-align: right;
+		min-width: 500px;
+	}
+
+	.item-row {
+		min-height: 58px;
+	}
+}
+@media screen and (min-width: 1920px) {
+	.MBBLogo{
+		width: 38%;
+	}
+
+	.MBBLogo h2{
+		text-align: center;
+		font-size: 56px;
+	}
+
+	.MBBLogo p{
+		font-size: 18px;
+	}
+}
+@media screen and (max-width:820px) and (min-width: 481px){
+	.instructionsContainer > h2, .instructionsSection > h2, .FAQSection > h2 {
+		font-size: 32px;
+	}
+
+	.instructionImg > img{
+		width: 90px;
+		height: auto;
+		margin: 60px 0 0 50px;
+	}
+
+	.instructionsContainer{
+		width: 90%;
+	}
+
+	.panel-title.instinst > a{
+		font-size: 14px;
+		margin-left: -20px;
+	}
+
+	.FAQSection a{
+		padding: 5px 0 0 -20px !important;
+	}
+}
+
+
+
+
+/* MOBILE STYLES ONLY */
+@media screen and (max-width:480px) {
+
+	body {
+		background-color: #e6e6e6;
+	}
+
+	.rslides {
+		position: relative;
+		list-style: none;
+		overflow: hidden;
+		width: 100%;
+		padding: 0;
+		margin: 0;
+	}
+
+	.rslides li {
+		-webkit-backface-visibility: hidden;
+		position: absolute;
+		display: none;
+		width: 100%;
+		left: 0;
+		top: 0;
+	}
+
+	.rslides li:first-child {
+		position: relative;
+		display: block;
+		float: left;
+	}
+
+	.rslides img {
+		display: block;
+		float: left;
+		width: auto;
+		height: 200px;
+	}
+
+	.MBBLogo h2 {
+		font-family: 'FromWhereYouAre', Sans-Serif;
+		font-size: 8vw;
+		text-align: center;
+	}
+
+	#calcSymB {
+		display: block;
+		margin: 0 auto;
+		width: 50%;
+		margin-top: -15px;
+	}
+
+	.endvLogo {
+		position: absolute;
+		margin-bottom: -62px;
+		z-index: 1000;
+		padding-top: 8px;
+		padding-left: 8px;
+	}
+
+	#endvLogoB {
+		min-width: 170px;
+	}
+
+	.MBBlogo p {
+		font-family: 'taile', Sans-Serif;
+		font-size: 4vw;
+		line-height: 1;
+		text-align: center;
+	}
+
+	.bannerLine {
+		display: none;
+	}
+
+	.indexSections {
+		width: 100% !important;
+		border-top: 1px solid #999;
+		margin-top: 10px;
+		background: #fff;
+		padding-top: 10px;
+		float: left;
+	}
+
+	.indexSections h2 {
+		font-family: 'BagnardSans', serif;
+		font-size: 8.5vw;
+		color: #5e5e5e;
+		text-align: center;
+	}
+
+	.indexSections p {
+		font-family: 'taile', Sans-Serif;
+		font-size: 3.5vw;
+		line-height: 1.2;
+		margin: 0 2.5% 50px 2.5%;;
+		text-align: center;
+	}
+
+	.indxImg {
+		display: block;
+		width: 35vw;
+		height: auto;
+		margin: 0 auto;
+	}
+
+	.instructionsContainer {
+		width: 100%;
+		background-color: #fff;
+		border-top: 1px solid #999;
+		margin-top: 20px;
+	}
+
+	.instructionsContainer p {
+		font-family: 'taile', Sans-Serif;
+		font-size: 14px;
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+
+	.instructionsContainer h4 {
+		font-family: 'taile', Sans-Serif;
+		font-size: 18px;
+		margin-top: 20px;
+		margin-left: 5px;
+	}
+
+	.instructionsContainer h2 {
+		text-align: left;
+		border-bottom: 1px solid #000;
+		padding-bottom: 2px;
+		margin-top: 30px;
+		font-family: 'bagnardSans', serif;
+		font-size: 28px;
+		margin-left: 5px;
+	}
+
+	.instructionImg {
+		display: none;
+	}
+
+	.instructionsContainer h3 {
+		font-family: 'bagnardSans', serif;
+		font-size: 18px;
+		padding-top: 5px;
+		margin-bottom: 20px;
+		margin-left: 5px;
+	}
+
+	/* The text area field before the budget planner*/
+	.budgetPlannerIntro {
+		margin: 0 5% 10px 5%;
+	}
+
+	.budgetPlannerIntro > h1 {
+		font-family: 'bagnardSans', serif;
+		font-size: 24px;
+	}
+
+	.budgetPlannerIntro > p {
+		font-family: 'taile', Sans-Serif;
+		font-size: 14px;
+	}
+
+	.panel > .panel-heading > .panel-title {
+		font-size: 13px;
+	}
+
+	.toolHeader{
+		width: 100%;
+		float: left;
+		position: relative;
+		background-color: #e5742e;
+		border-radius: 4px;
+		min-height: 70px;
+	}
+
+	.toolHeader > h2 {
+		width: 90%;
+		float: left;
+		padding-left: 10px;
+		font-size: 24px;
+		font-family: 'bagnardSans', serif;
+	}
+
+	.toolSearch {
+		position: absolute;
+		left: 10px;
+		margin-top: 40px;
+		padding: 4px;
+		border-radius: 4px;
+		width: 92%;
+		height: 35px;
+	}
+
+	.toolHeader > p {
+		width: 20%;
+		float: left;
+		padding: 30px 0 5px 0;
+		margin: 0 0 0 10px;
+	}
+
+	/* The area above the panels */
+	#sizing-addon1{
+		margin-left: 10px;
+		font-size: 14px;
+		text-align: left;
+		margin-right: 5px;
+	}
+
+	#txtInitial{
+		width: 85% !important;
+		display: block;
+		padding-right: 0px;
+		margin-left: 0;
+	}
+
+	.input-group{
+		padding-left: 0px;
+		margin-left: 0px;
+	}
+
+	/* The style for the initial amount box */
+	#txtInitial {
+		height: 30px;
+		width: 150px;
+		border-radius: 5px;
+		margin-top: 15px;
+		margin-right: 50px;
+		font-size: 14px;
+		padding: 0 0 0 5px;
+	}
+
+	.budgetTotal{
+		margin-left: 15px;
+		font-size: 14px;
+		text-align: left;
+		margin-right: 5px;
+	}
+
+	.price {
+		float: left;
+		margin: 10px 5px 5px -100px;
+	}
+
+	.amount {
+		margin: 30px 0px 15px 5px;
+		width: 100px;
+		float: left;
+	}
+
+	.idStuff{
+		min-width: 100% !important;
+	}
+	.totalArea {
+		position: absolute;
+		bottom: 1px;
+		left: 14px;
+		width: 300px;
+		display: inline-block;
+	}
+
+	.item-row {
+		min-height: 60px;
+	}
+
+	#rowText{
+		min-width: 100% !important;
+		display: block;
+	}
+
+	#viewSummary {
+		display: none;
+	}
+
+	.progress{
+		width: 90% !important;
+		background: #d0d0d0;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.progress_bar {
+		height:36px;
+		width: auto;
+		margin: 0;
+		padding: 8px 0 0 0;
+	}
+
+	.progress_bar p{
+		display: none;
+	}
+
+	.budgetWrap{
+		margin-bottom: 60px;
+	}
+
+	.form-horizontal{
+		padding: 0 10px 0 10px;
+	}
+
+	.panel-group.instructGroup {
+		margin: 0 10px 0 10px;
+	}
+
+	.panel-heading.instPanel {
+		min-height: 30px;
+		margin: 0px 5px 0 5px;
+	}
+
+	.panel-heading > .panel-title.instinst {
+		margin-top: 10px !important;
+		margin-left: 10px !important;
+	}
+	.FAQSection a{
+		text-decoration: none;
+		padding: 5px;
+		text-align: center;
+	}
+
+	.toolHeader p{
+		display: block;
+		float: left;
+	}
+}

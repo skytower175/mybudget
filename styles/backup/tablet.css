@@ -1,0 +1,132 @@
+/* Common elements all/some resolutions need */
+@import url("../StyleSheet.css");
+@import url("backup/largeShared.css");
+
+body{
+	background-color: #fff;
+}
+#endvLogoB{
+	min-width: 170px;
+}
+
+#calcSymB{
+	width: 155px;
+}
+.MBBLogo {
+	margin-top: -100px;
+	height: 100px;
+	width: auto;
+}
+
+.MBBLogo h2{
+	font-size: 26px;
+	float: left;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.calcSymbols {
+	margin-top: 30px;
+	float: right;
+	width: auto;
+	margin-right: -10px;
+}
+
+.MBBLogo p{
+	position: absolute;
+	left: 0;
+	margin: 55px 0 0 4%;
+	padding-left: 0;
+	font-size: 14px;
+	text-align: left;
+}
+
+/*Style for the images and font size*/
+.indxImg{
+	width: 17.5vw;
+	height: auto;
+	margin: 0px 20px 20px 2.5%;
+	float: left;
+}
+
+.indexSections{
+	width: 100%;
+	margin-top: 0px;
+	background: #fff;
+	padding-top: 40px;
+	float: left;
+}
+
+.indexSections h2{
+	font-family: 'BagnardSans', serif;
+	font-size: 4.5vw;
+	color: #5e5e5e;
+}
+
+.indexSections p{
+	font-family: 'taile', Sans-Serif;
+	font-size: 2vw;
+	line-height: 1.2;
+	margin-right: 2.5%;
+	margin-bottom: 50px;
+}
+
+.budgetWrap{
+	border: 5px solid #e5742e;
+	width: 95%;
+	margin: 0 auto;
+	border-radius: 4px;
+	margin-bottom: 60px;
+}
+
+.bgContainer{
+    width: 100%;
+    background: #fff;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.toolHeader{
+    width: 95%;
+    float: left;
+    position: relative;
+    left: 2.5%;
+    background-color: #e5742e;
+    border-radius: 4px;
+    min-height: 70px;
+}
+#viewSummary{
+	float: left;
+	margin-left: 20px;
+	text-decoration: none;
+	color: #3c3c3c;
+	height: 22px;
+	padding: 0 2px;
+	margin-top: -2px;
+}
+
+#viewSummary:focus {
+	outline:0;
+}
+
+.progress{
+	width: 35% !important;
+	background: #d0d0d0;
+	float: left;
+}
+
+.progress_bar {
+	height:36px;
+	width: auto;
+	margin: 0 0 0 12%;
+	padding: 8px 0 0 0;
+}
+
+.progress_bar p{
+	float: left;
+	margin:  1px 20px 0 0;
+	font-weight: bold;
+	font-family: 'taile', Sans-Serif;
+	font-size: 14px;
+}
+
